@@ -1,0 +1,977 @@
+year,utility_id,utility_name,state,ownership,ieee_saidi_with_med_minutes,ieee_saifi_with_med_interruptions,ieee_caidi_with_med_minutes,ieee_saidi_without_med_minutes,ieee_saifi_without_med_interruptions,ieee_caidi_without_med_minutes,customer_count,highest_distribution_voltage_kv,outages_recorded_automatically
+2025,213.0,Alaska Electric Light & Power Co.,AK,Investor Owned,435.9,7.73,56.390686,368.63,6.2,59.456452,17935.0,12.5,N
+2025,219.0,Alaska Power and Telephone Co,AK,Investor Owned,,,,,,,,,
+2025,3522.0,Chugach Electric Assn Inc,AK,Cooperative,300.41,1.98,151.72222,144.01,1.56,92.314103,113830.0,34.5,Y
+2025,7353.0,Golden Valley Elec Assn Inc,AK,Cooperative,211.585,1.959,108.00664,211.585,1.959,108.00664,48592.0,34.5,Y
+2025,19558.0,Homer Electric Assn Inc,AK,Cooperative,805.01,3.36,239.58631,239.16,1.75,136.66286,34587.0,25.0,N
+2025,10210.0,Ketchikan Public Utilities,AK,Municipal,,,,,,,,,
+2025,11824.0,Matanuska Electric Assn Inc,AK,Cooperative,1133.676,4.061,279.16178,390.27,2.61,149.52874,71871.0,25.0,Y
+2025,195.0,Alabama Power Co,AL,Investor Owned,,,,,,,,,
+2025,1149.0,Baldwin County El Member Corp,AL,Cooperative,45.921,1.503,30.552894,24.097,1.418,16.993653,92539.0,12.5,Y
+2025,3222.0,Central Alabama Electric Coop,AL,Cooperative,468.53,,,188.83,,,47827.0,24.9,Y
+2025,5309.0,City of Dothan - (AL),AL,Municipal,82.964,0.743,111.66083,67.195,0.676,99.400888,32385.0,13.2,Y
+2025,14146.0,City of Opelika - (AL),AL,Municipal,,,,47.52,0.35,135.77143,16140.0,12.0,Y
+2025,16829.0,City of Scottsboro - (AL),AL,Municipal,,,,,,,,,
+2025,4327.0,Coosa Valley Electric Coop Inc,AL,Cooperative,345.315,2.432,141.98808,209.112,1.84,113.64783,18631.0,24.9,N
+2025,4430.0,"Covington Electric Coop, Inc",AL,Cooperative,211.317,2.292,92.197644,85.948,1.335,64.380524,25037.0,24.9,Y
+2025,4618.0,"Cullman Electric Coop, Inc",AL,Cooperative,779.486,3.391,229.86907,346.792,2.44,142.12787,48573.0,46.0,Y
+2025,4958.0,Decatur Utilities,AL,Municipal,,,,,,,,,
+2025,19219.0,Diverse Power Incorporated,AL,Cooperative,1203.755,2.253,534.28984,210.257,1.557,135.03982,698.0,35.0,Y
+2025,5204.0,Dixie Electric Coop - (AL),AL,Cooperative,258.32,2.04,126.62745,118.27,1.75,67.582857,26553.1,13.2,N
+2025,6491.0,Foley Board of Utilities,AL,Municipal,70.301,1.069,65.76333,40.452,0.676,59.840237,59442.0,12.5,Y
+2025,9739.0,Joe Wheeler Elec Member Corp,AL,Cooperative,,,,,,,,,
+2025,17252.0,Singing River Elec Cooperative,AL,Cooperative,0.904,,,0.904,,,335.9,25.0,N
+2025,17534.0,"South Alabama Elec Coop, Inc",AL,Cooperative,234.922,2.347,100.09459,158.561,2.079,76.267917,17985.0,25.0,Y
+2025,18203.0,Tallapoosa River Elec Coop Inc,AL,Cooperative,566.86,3.064,185.00653,268.22,1.954,137.26714,31143.0,25.0,Y
+2025,20841.0,"Wiregrass Electric Coop, Inc",AL,Cooperative,111.189,1.528,72.76767,94.045,1.334,70.498501,26902.0,13.2,Y
+2025,817.0,Arkansas Valley Elec Coop Corp,AR,Cooperative,321.66,2.85,112.86316,249.48,2.59,96.324324,58983.0,14.4,Y
+2025,3093.0,Carroll Electric Coop Corp - (AR),AR,Cooperative,224.01,2.43,92.185185,142.45,1.98,71.944444,110307.0,24.9,Y
+2025,8840.0,City of Hope - (AR),AR,Municipal,51.47,0.88,58.488636,24.76,0.4,61.9,7009.0,13.8,Y
+2025,13718.0,City of North Little Rock - (AR),AR,Municipal,,,,,,,,,
+2025,17184.0,City of Siloam Springs - (AR),AR,Municipal,43.356,0.378,114.69841,43.356,0.378,114.69841,10071.0,12.5,Y
+2025,3712.0,Clay County Electric Coop Corp - (AR),AR,Cooperative,,,,,,,,,
+2025,4280.0,Conway Corporation,AR,Municipal,57.191,0.698,81.93553,57.191,0.698,81.93553,33995.0,13.8,N
+2025,4509.0,Craighead Electric Coop Corp,AR,Cooperative,499.521,3.315,150.68507,192.633,2.39,80.599582,32487.0,34.5,Y
+2025,5860.0,Empire District Electric Co,AR,Investor Owned,206.33,0.896,230.27902,84.45,0.472,178.91949,5329.0,12.5,Y
+2025,814.0,Entergy Arkansas LLC,AR,Investor Owned,517.9,2.242,230.99911,252.3,1.631,154.69037,747309.0,34.5,Y
+2025,6342.0,First Electric Coop Corp,AR,Cooperative,646.072,2.538,254.5595,222.041,1.685,131.77507,103674.0,25.0,Y
+2025,13676.0,"North Arkansas Elec Coop, Inc",AR,Cooperative,740.21,2.63,281.44867,202.41,1.86,108.82258,39367.0,25.0,Y
+2025,14063.0,Oklahoma Gas & Electric Co,AR,Investor Owned,,,,,,,,,
+2025,14289.0,Ozarks Electric Coop Corp - (AR),AR,Cooperative,675.92,1.68,402.33333,50.15,0.65,77.153846,81038.0,24.9,Y
+2025,14864.0,Petit Jean Electric Coop Corp,AR,Cooperative,317.426,1.946,163.11716,241.297,1.623,148.67344,21058.0,24.9,Y
+2025,17671.0,Southwest Arkansas E C C,AR,Cooperative,465.587,2.024,230.0331,199.682,1.529,130.59647,29491.0,12.5,Y
+2025,17698.0,Southwestern Electric Power Co,AR,Investor Owned,427.6,1.842,232.13898,212.3,1.645,129.05775,129162.0,35.0,Y
+2025,20963.0,Woodruff Electric Coop Corp,AR,Cooperative,44.6,0.42,106.19048,44.6,0.42,106.19048,19945.0,13.2,
+2025,803.0,Arizona Public Service Co,AZ,Investor Owned,73.09,0.842,86.805226,73.09,0.842,86.805226,1426947.0,69.0,Y
+2025,12351.0,City of Mesa - (AZ),AZ,Municipal,,,,,,,,,
+2025,40165.0,"Dixie Escalante R E A, Inc",AZ,Cooperative,99.363,1.287,77.205128,10.002,0.309,32.368932,3221.0,12.5,Y
+2025,15048.0,Electrical Dist No2 Pinal County,AZ,Political Subdivision,141.07,1.65,85.49697,115.05,1.22,94.303279,7129.0,,Y
+2025,30518.0,Electrical Dist No3 Pinal County,AZ,Political Subdivision,30.41,0.42,72.404762,30.41,0.42,72.404762,36300.0,69.0,Y
+2025,65261.0,Gila River Indian Utility Authority (GRICUA),AZ,Cooperative,263.79,6.274,42.044947,263.79,6.274,42.044947,3582.0,12.0,N
+2025,21538.0,"Mohave Electric Cooperative, Inc.",AZ,Cooperative,197.3,,,151.9,,,45941.0,25.0,Y
+2025,13314.0,Navajo Tribal Utility Authority,AZ,State,,,,,,,,,
+2025,16572.0,Salt River Project,AZ,Political Subdivision,65.66,1.017,64.562439,49.89,0.888,56.182432,1182229.0,34.5,N
+2025,18280.0,Sulphur Springs Valley E C Inc,AZ,Cooperative,91.64,0.826,110.94431,82.55,0.808,102.16584,54786.0,34.5,Y
+2025,19189.0,Trico Electric Cooperative Inc,AZ,Cooperative,90.0,0.73,123.28767,66.4,0.578,114.87889,56123.0,24.9,Y
+2025,24211.0,Tucson Electric Power Co,AZ,Investor Owned,41.81,0.646,64.721362,41.81,0.646,64.721362,460504.0,14.0,Y
+2025,19728.0,"UNS Electric, Inc",AZ,Investor Owned,81.22,0.936,86.773504,64.17,0.761,84.323259,108034.0,69.0,Y
+2025,207.0,Alameda Municipal Power,CA,Municipal,9.048,0.053,170.71698,9.048,0.053,170.71698,37322.0,12.0,Y
+2025,17612.0,Bear Valley Electric Service,CA,Investor Owned,338.4,5.6,60.428571,58.1,1.1,52.818182,24913.0,34.5,N
+2025,590.0,City of Anaheim - (CA),CA,Municipal,31.91,0.59,54.084746,31.91,0.59,54.084746,117000.0,12.5,Y
+2025,1050.0,City of Azusa,CA,Municipal,,,,1.96,0.01,196.0,17635.0,12.5,N
+2025,2507.0,City of Burbank Water and Power - (CA),CA,Municipal,174.4,0.811,215.04316,12.82,0.192,66.770833,54898.0,34.5,N
+2025,4003.0,City of Colton - (CA),CA,Municipal,,,,,,,,,
+2025,4390.0,City of Corona - (CA),CA,Municipal,177.54,1.87,94.941176,174.54,1.87,93.336898,1851.0,12.0,Y
+2025,7294.0,City of Glendale - (CA),CA,Municipal,,,,,,,,,
+2025,11124.0,City of Lodi - (CA),CA,Municipal,72.3,0.53,136.41509,22.4,0.26,86.153846,26346.0,12.0,Y
+2025,55787.0,City of Moreno Valley - (CA),CA,Municipal,85.27,0.749,113.84513,85.27,0.749,113.84513,9651.0,12.0,N
+2025,14401.0,City of Palo Alto - (CA),CA,Municipal,68.1,0.617,110.37277,27.2,0.111,245.04505,30190.0,12.0,Y
+2025,14534.0,City of Pasadena - (CA),CA,Municipal,213.045,0.776,274.54253,60.02,0.645,93.054264,66846.0,17.0,N
+2025,15783.0,City of Redding - (CA),CA,Municipal,74.13,0.682,108.69501,49.47,0.556,88.97482,45638.0,12.5,N
+2025,16088.0,City of Riverside - (CA),CA,Municipal,88.257,0.494,178.65789,75.751,0.492,153.96545,110480.0,12.0,N
+2025,16295.0,City of Roseville - (CA),CA,Municipal,,,,,,,,,
+2025,16655.0,City of Santa Clara - (CA),CA,Municipal,69.31,0.63,110.01587,69.31,0.63,110.01587,62242.0,60.0,N
+2025,17896.0,City of Shasta Lake - (CA),CA,Municipal,79.5,0.73,108.90411,79.5,,,4606.0,12.5,N
+2025,19798.0,City of Vernon - (CA),CA,Municipal,,,,,,,,,
+2025,9216.0,Imperial Irrigation District,CA,Political Subdivision,113.87,0.72,158.15278,56.09,0.66,84.984848,166111.0,12.4,N
+2025,57483.0,Liberty Utilities,CA,Investor Owned,614.289,3.092,198.67044,434.996,2.609,166.72901,48925.0,24.9,N
+2025,11208.0,Los Angeles Department of Water & Power,CA,Municipal,407.98,0.78,523.05128,88.68,0.63,140.7619,1571400.0,34.5,N
+2025,12745.0,Modesto Irrigation District,CA,Political Subdivision,36.28,0.428,84.766355,31.32,0.371,84.420485,121547.0,21.0,Y
+2025,14354.0,PacifiCorp,CA,Investor Owned,484.73,5.31,91.286252,297.03,4.28,69.399533,47309.0,34.5,Y
+2025,14328.0,Pacific Gas & Electric Co.,CA,Investor Owned,272.6,1.63,167.23926,207.8,1.502,138.34887,5633083.0,34.0,Y
+2025,16534.0,Sacramento Municipal Util Dist,CA,Political Subdivision,,,,,,,,,
+2025,16609.0,San Diego Gas & Electric Co,CA,Investor Owned,129.99,0.538,241.6171,67.78,0.509,133.16306,1541412.0,12.0,Y
+2025,17609.0,Southern California Edison Co,CA,Investor Owned,545.012,1.39,392.09496,116.368,0.963,120.83904,5343161.0,33.0,Y
+2025,19281.0,Turlock Irrigation District,CA,Political Subdivision,61.5,0.66,93.181818,61.5,0.66,93.181818,91168.0,12.0,Y
+2025,56146.0,"Black Hills Colorado Electric, LLC",CO,Investor Owned,94.518,0.898,105.2539,94.518,0.897,105.37124,111502.0,35.0,Y
+2025,9336.0,CORE Electric Cooperative,CO,Cooperative,380.973,0.967,393.97415,52.168,0.568,91.84507,181698.0,34.5,Y
+2025,3989.0,City of Colorado Springs - (CO),CO,Municipal,40.76,0.68,59.941176,40.76,0.68,59.941176,261349.0,34.5,Y
+2025,6604.0,City of Fort Collins - (CO),CO,Municipal,8.07,0.13,62.076923,8.07,0.13,62.076923,80930.0,13.8,Y
+2025,6610.0,City of Fort Morgan,CO,Municipal,,,,13.647,0.317,43.050473,1915.0,,
+2025,6638.0,City of Fountain,CO,Municipal,42.059,0.559,75.239714,42.059,0.559,75.239714,17628.0,12.5,Y
+2025,11187.0,City of Longmont,CO,Municipal,39.78,0.564,70.531915,39.78,0.564,70.531915,49400.0,12.5,N
+2025,11256.0,City of Loveland - (CO),CO,Municipal,26.65,0.34,78.382353,26.65,0.34,78.382353,42408.0,12.5,Y
+2025,5086.0,Delta Montrose Electric Assn,CO,Cooperative,115.458,0.962,120.01871,115.458,0.962,120.01871,37658.0,46.0,Y
+2025,5862.0,"Empire Electric Assn, Inc",CO,Cooperative,174.602,1.364,128.00733,174.602,1.364,128.00733,17322.0,44.0,Y
+2025,7563.0,Grand Valley Power,CO,Cooperative,116.38,,,116.38,,,20095.0,24.9,Y
+2025,8773.0,"Holy Cross Electric Assn, Inc",CO,Cooperative,71.1,1.07,66.448598,71.1,1.07,66.448598,61197.0,24.9,Y
+2025,10539.0,"La Plata Electric Assn, Inc",CO,Cooperative,217.729,1.703,127.85026,67.183,0.915,73.424044,47128.0,12.5,Y
+2025,12866.0,Moon Lake Electric Assn Inc,CO,Cooperative,,,,,,,,,
+2025,12860.0,Morgan County Rural Elec Assn,CO,Cooperative,,,,,,,,,
+2025,13050.0,"Mountain Parks Electric, Inc",CO,Cooperative,181.3,2.422,74.855491,122.3,1.963,62.302598,23275.0,25.0,Y
+2025,13058.0,"Mountain View Elec Assn, Inc",CO,Cooperative,130.396,0.841,155.04875,29.9,0.276,108.33333,67200.0,25.0,Y
+2025,15257.0,"Poudre Valley REA, Inc",CO,Cooperative,150.833,1.028,146.72471,48.734,0.581,83.879518,56552.0,24.9,Y
+2025,15466.0,Public Service Co of Colorado,CO,Investor Owned,360.33,1.58,228.05696,149.18,1.36,109.69118,1542120.0,34.5,Y
+2025,16616.0,"San Isabel Electric Assn, Inc",CO,Cooperative,,,,,,,,,
+2025,16603.0,"San Luis Valley R E C, Inc",CO,Cooperative,150.0,1.485,101.0101,105.4,1.213,86.892003,13091.0,25.0,Y
+2025,17592.0,Southeast Colorado Power Assn,CO,Cooperative,1290.0,,,1280.0,,,10958.0,24.9,
+2025,19499.0,"United Power, Inc",CO,Cooperative,303.068,1.18,256.83729,90.018,1.1,81.834545,117131.0,69.0,Y
+2025,20576.0,"White River Electric Assn, Inc",CO,Cooperative,,,,,,,,,
+2025,21075.0,Y-W Electric Assn Inc,CO,Cooperative,699.69,,,699.69,,,8832.0,,N
+2025,21081.0,Yampa Valley Electric Assn Inc,CO,Cooperative,272.24,2.005,135.78055,189.0,1.4,135.0,29128.0,25.0,Y
+2025,2089.0,Bozrah Light & Power Company,CT,Municipal,125.86,0.61,206.32787,78.58,0.46,170.82609,2791.0,13.8,N
+2025,13831.0,City of Norwich - (CT),CT,Municipal,168.79,1.48,114.0473,168.79,1.48,114.0473,20996.0,34.5,Y
+2025,4176.0,Connecticut Light & Power Co,CT,Investor Owned,216.6,1.005,215.52239,85.4,0.685,124.67153,1345292.0,27.6,Y
+2025,7716.0,Groton Dept of Utilities - (CT),CT,Municipal,71.2,0.36,197.77778,71.2,0.36,197.77778,16395.0,35.0,N
+2025,20038.0,Town of Wallingford - (CT),CT,Municipal,,,,,,,,,
+2025,19497.0,United Illuminating Co,CT,Investor Owned,73.3,0.66,111.06061,39.2,0.51,76.862745,347254.0,69.0,N
+2025,15270.0,Potomac Electric Power Co,DC,Investor Owned,50.295,0.324,155.23148,33.949,0.309,109.86731,347904.0,34.0,Y
+2025,12540.0,City of Milford - (DE),DE,Municipal,,,,,,,,,
+2025,13519.0,City of Newark - (DE),DE,Municipal,35.23,0.27,130.48148,35.23,0.27,130.48148,13486.0,12.5,Y
+2025,5070.0,Delaware Electric Cooperative,DE,Cooperative,111.494,1.477,75.486798,75.144,1.126,66.735346,120447.0,12.5,Y
+2025,5027.0,Delmarva Power,DE,Investor Owned,104.0,0.78,133.33333,76.0,0.69,110.14493,340680.0,69.0,Y
+2025,9616.0,Beaches Energy Services,FL,Municipal,19.97,0.444,44.977477,,,,36454.0,27.0,N
+2025,3245.0,"Central Florida Elec Coop, Inc",FL,Cooperative,133.811,1.939,69.010315,133.811,1.939,69.010315,36885.0,25.0,Y
+2025,3502.0,"Choctawhatche Elec Coop, Inc",FL,Cooperative,88.121,0.949,92.856691,80.793,0.894,90.372483,68761.0,12.5,Y
+2025,1300.0,City of Bartow - (FL),FL,Municipal,,,,,,,,,
+2025,8795.0,City of Homestead - (FL),FL,Municipal,,,,,,,,,
+2025,10620.0,City of Lake Worth Beach - (FL),FL,Municipal,,,,,,,,,
+2025,10623.0,City of Lakeland - (FL),FL,Municipal,,,,,,,,,
+2025,10868.0,City of Leesburg - (FL),FL,Municipal,,,,,,,,,
+2025,13955.0,City of Ocala,FL,Municipal,,,,,,,,,
+2025,18445.0,City of Tallahassee - (FL),FL,Municipal,,,,,,,,,
+2025,58124.0,City of Winter Park - (FL),FL,Municipal,,,,,,,,,
+2025,3757.0,"Clay Electric Cooperative, Inc - (FL)",FL,Cooperative,204.9,2.6,78.807692,204.9,2.6,78.807692,196630.0,25.0,Y
+2025,6455.0,"Duke Energy Florida, LLC",FL,Investor Owned,86.61,0.974,88.921971,82.02,0.963,85.17134,2049650.0,13.0,Y
+2025,6443.0,"Florida Keys El Coop Assn, Inc",FL,Cooperative,49.187,0.935,52.606417,22.064,0.505,43.691089,34790.0,25.0,Y
+2025,6452.0,Florida Power & Light Co,FL,Investor Owned,46.91,0.46,101.97826,44.56,0.43,103.62791,6071776.0,24.9,Y
+2025,6457.0,Florida Public Utilities Co,FL,Investor Owned,,,,,,,,,
+2025,6616.0,Fort Pierce Utilities Authority,FL,Municipal,,,,,,,,,
+2025,6909.0,Gainesville Regional Utilities,FL,Municipal,37.19,0.77,48.298701,37.19,0.77,48.298701,101948.0,12.5,Y
+2025,7264.0,"Glades Electric Coop, Inc",FL,Cooperative,426.7,3.24,131.69753,382.9,3.06,125.13072,18904.0,24.9,Y
+2025,7785.0,"Gulf Coast Electric Coop, Inc",FL,Cooperative,336.029,2.78,120.87374,257.132,2.661,96.629838,22675.0,25.0,N
+2025,9617.0,JEA,FL,Municipal,,,,,,,,,
+2025,10376.0,Kissimmee Utility Authority,FL,Municipal,,,,,,,,,
+2025,10857.0,"Lee County Electric Coop, Inc - (FL)",FL,Cooperative,,,,,,,,,
+2025,13485.0,New Smyrna Beach City of,FL,Municipal,144.06,1.546,93.182406,144.06,1.546,93.182406,31430.0,23.0,Y
+2025,31833.0,Okefenoke Rural El Member Corp,FL,Cooperative,478.503,3.73,128.28499,249.866,3.296,75.808859,11268.0,25.0,Y
+2025,14610.0,Orlando Utilities Comm,FL,Municipal,,,,,,,,,
+2025,14606.0,"Peace River Electric Coop, Inc",FL,Cooperative,154.8,1.62,95.555556,154.8,1.62,95.555556,70946.0,25.0,Y
+2025,18304.0,"Sumter Electric Coop, Inc",FL,Cooperative,,,,,,,,,
+2025,18360.0,Suwannee Valley Elec Coop Inc,FL,Cooperative,212.0,3.24,65.432099,212.0,3.24,65.432099,29092.0,24.9,Y
+2025,18449.0,"Talquin Electric Coop, Inc",FL,Cooperative,421.145,3.565,118.13324,224.931,3.02,74.480464,56006.0,25.0,Y
+2025,18454.0,Tampa Electric Co,FL,Investor Owned,112.063,1.847,60.672983,78.76,1.3,60.584615,880841.0,13.2,Y
+2025,19161.0,"Tri-County Electric Coop, Inc (FL)",FL,Cooperative,230.39,2.395,96.196242,230.39,2.395,96.196242,19681.4,25.0,Y
+2025,10226.0,"Utility Board of the City of Key West, F",FL,Municipal,47.9,1.5,31.933333,,,,32069.0,13.8,Y
+2025,20371.0,"West Florida El Coop Assn, Inc",FL,Cooperative,413.258,3.883,106.4275,237.936,3.139,75.799936,29439.0,25.0,Y
+2025,20885.0,Withlacoochee River Elec Coop,FL,Cooperative,105.49,1.45,72.751724,105.49,1.45,72.751724,271246.0,25.0,N
+2025,230.0,Albany Utility Board,GA,Municipal,199.064,1.88,105.88511,140.577,1.582,88.860303,32159.0,12.5,Y
+2025,407.0,Altamaha Electric Member Corp,GA,Cooperative,374.794,2.131,175.87705,259.629,1.339,193.89768,21886.0,24.9,Y
+2025,562.0,Amicalola Electric Member Corp,GA,Cooperative,727.908,3.847,189.21445,531.106,3.438,154.48109,56980.6,25.0,N
+2025,1891.0,Blue Ridge Mountain EMC - (GA),GA,Cooperative,518.658,3.729,139.08769,289.11,3.054,94.666012,39161.0,25.0,Y
+2025,3081.0,Carroll Electric Member Corp - (GA),GA,Cooperative,359.9,2.336,154.06678,136.79,1.444,94.729917,56946.0,25.9,Y
+2025,3248.0,Central Georgia El Member Corp,GA,Cooperative,167.52,1.834,91.34133,76.47,1.205,63.460581,67204.0,25.0,Y
+2025,2812.0,City of Calhoun - (GA),GA,Municipal,116.61,1.04,112.125,44.22,0.53,83.433962,6412.0,7.2,N
+2025,11646.0,City of Marietta - (GA),GA,Municipal,105.82,1.297,81.588281,105.82,1.297,81.588281,42732.0,25.0,Y
+2025,18848.0,City of Thomasville - (GA),GA,Municipal,160.94,2.172,74.097606,126.21,1.99,63.422111,16598.0,,Y
+2025,3843.0,Coastal Electric Member Corp - (GA),GA,Cooperative,227.95,2.47,92.287449,198.49,2.3,86.3,24542.0,25.0,N
+2025,3916.0,Cobb Electric Membership Corp,GA,Cooperative,47.71,0.86,55.476744,31.99,0.78,41.012821,222657.0,20.0,Y
+2025,4432.0,Coweta-Fayette El Member Corp,GA,Cooperative,333.232,2.363,141.02074,118.606,1.483,79.977073,89944.0,25.0,Y
+2025,4538.0,Crisp County Power Comm,GA,Political Subdivision,203.655,3.059,66.575678,203.655,3.059,66.575678,11866.0,46.0,Y
+2025,19219.0,Diverse Power Incorporated,GA,Cooperative,503.932,2.211,227.9204,115.493,1.374,84.056041,37274.0,35.0,Y
+2025,5905.0,Excelsior Electric Member Corp,GA,Cooperative,,,,,,,,,
+2025,6411.0,Flint Electric Membership Corp,GA,Cooperative,150.55,1.22,123.40164,101.32,1.03,98.368932,97743.0,25.0,Y
+2025,7140.0,Georgia Power Co,GA,Investor Owned,286.7,1.826,157.00986,154.86,1.437,107.76618,2803950.0,38.0,Y
+2025,7450.0,Grady Electric Membership Corp,GA,Cooperative,233.647,2.539,92.023237,233.647,2.539,92.023237,20382.4,25.0,N
+2025,7090.0,GreyStone Power Corporation,GA,Cooperative,241.413,2.28,105.88289,81.4,1.33,61.203008,153733.0,25.0,Y
+2025,7887.0,Habersham Electric Membership Corp,GA,Cooperative,386.86,3.02,128.09934,185.186,2.29,80.867249,37921.0,12.5,N
+2025,8210.0,Hart Electric Member Corp,GA,Cooperative,306.151,1.583,193.39924,82.883,1.04,79.695192,40346.0,12.5,Y
+2025,9601.0,Jackson Electric Member Corp - (GA),GA,Cooperative,217.33,1.219,178.28548,73.73,1.09,67.642202,275057.0,25.0,Y
+2025,9689.0,Jefferson Electric Member Corp,GA,Cooperative,163.212,1.771,92.158103,142.713,1.652,86.388015,37006.0,25.0,Y
+2025,12706.0,Mitchell Electric Member Corp,GA,Cooperative,,,,,,,,,
+2025,13547.0,"Newnan Wtr, Sewer & Light Comm",GA,Municipal,,,,,,,,,
+2025,13716.0,North Georgia Elec Member Corp,GA,Cooperative,215.24,2.35,91.591489,176.25,2.12,83.136792,106037.0,24.9,Y
+2025,31833.0,Okefenoke Rural El Member Corp,GA,Cooperative,407.126,2.825,144.1154,179.52,2.377,75.523769,30750.0,25.0,Y
+2025,15700.0,Rayle Electric Membership Corp,GA,Cooperative,473.77,4.12,114.99272,302.586,3.404,88.891304,20154.0,24.9,Y
+2025,16865.0,Sawnee Electric Membership Corporation,GA,Cooperative,65.57,1.13,58.026549,31.09,0.72,43.180556,203530.3,24.9,Y
+2025,17832.0,Snapping Shoals El Member Corp,GA,Cooperative,174.942,1.448,120.8163,99.879,1.109,90.062218,110819.0,25.0,Y
+2025,10624.0,Southern Rivers Energy,GA,Cooperative,774.18,3.59,215.64903,250.77,2.59,96.822394,21757.0,25.0,Y
+2025,18305.0,Sumter Electric Member Corp,GA,Cooperative,159.43,,,134.15,,,21500.0,25.0,Y
+2025,18499.0,Three Notch Elec Member Corp,GA,Cooperative,,,,,,,,,
+2025,18956.0,Tri-County Elec Member Corp (GA),GA,Cooperative,,,,,,,,,
+2025,20065.0,Walton Electric Member Corp,GA,Cooperative,306.6,2.65,115.69811,164.4,1.9,86.526316,142230.0,25.0,Y
+2025,20146.0,Washington Elec Member Corp,GA,Cooperative,1789.3,,,1789.3,,,16863.0,25.0,Y
+2025,8287.0,Hawaii Electric Light Co Inc,HI,Investor Owned,,,,,,,,,
+2025,19547.0,Hawaiian Electric Co Inc,HI,Investor Owned,,,,,,,,,
+2025,10071.0,Kauai Island Utility Cooperative,HI,Cooperative,335.42,3.45,97.223188,202.01,2.36,85.597458,35470.0,12.5,Y
+2025,11843.0,Maui Electric Co Ltd,HI,Investor Owned,,,,,,,,,
+2025,16611.0,Access Energy Coop,IA,Cooperative,,,,,,,,,
+2025,13143.0,Board of Water Electric & Communications,IA,Municipal,19.091,0.268,71.235075,10.954,0.163,67.202454,11627.0,13.8,N
+2025,2652.0,Butler County Rural Elec Coop - (IA),IA,Cooperative,96.928,1.453,66.708878,84.764,1.272,66.638365,5110.0,12.5,Y
+2025,3203.0,Cedar Falls Utilities,IA,Municipal,,,,,,,,,
+2025,554.0,City of Ames - (IA),IA,Municipal,21.07,0.39,54.025641,21.07,0.39,54.025641,27665.0,13.8,N
+2025,9230.0,City of Independence - (IA),IA,Municipal,17.289,0.153,113.0,3.574,0.038,94.052632,3196.0,12.5,N
+2025,11788.0,Consumers Energy Coop - (IA),IA,Cooperative,93.844,0.741,126.64507,93.844,0.741,126.64507,7765.0,12.5,Y
+2025,11053.0,Corridor Energy Cooperative,IA,Cooperative,135.0,1.766,76.443941,135.0,1.766,76.443941,32966.0,12.5,Y
+2025,5588.0,East-Central Iowa Rural Elec Coop,IA,Cooperative,66.81,0.88,75.920455,66.81,0.88,75.920455,9238.0,12.5,Y
+2025,5605.0,Eastern Iowa Light & Power Coop,IA,Cooperative,92.2,0.93,99.139785,79.2,0.83,95.421687,24200.0,7.2,Y
+2025,8319.0,Heartland Power Coop,IA,Cooperative,117.034,0.915,127.90601,67.376,0.802,84.009975,5265.0,15.0,Y
+2025,9417.0,Interstate Power and Light Co,IA,Investor Owned,,,,,,,,,
+2025,9425.0,Iowa Lakes Electric Coop,IA,Cooperative,55.0,0.44,125.0,53.5,0.43,124.4186,13283.0,12.5,N
+2025,12642.0,Maquoketa Valley Rrl Elec Coop,IA,Cooperative,138.1,1.03,134.07767,63.0,0.73,86.30137,17412.0,12.5,Y
+2025,19157.0,MiEnergy Cooperative,IA,Cooperative,101.495,0.857,118.43057,85.679,0.769,111.41612,7311.0,12.5,Y
+2025,12341.0,MidAmerican Energy Co,IA,Investor Owned,205.0,1.19,172.26891,82.0,0.75,109.33333,750247.0,13.8,Y
+2025,12450.0,Midland Power Coop,IA,Cooperative,,,,,,,,,
+2025,17260.0,North West Rural Electric Coop,IA,Cooperative,,,,,,,,,
+2025,15291.0,Prairie Energy Coop,IA,Cooperative,,,,,,,,,
+2025,20169.0,Avista Corp,ID,Investor Owned,973.0,1.89,514.81481,208.0,1.2,173.33333,148201.0,35.0,N
+2025,9187.0,City of Idaho Falls - (ID),ID,Municipal,50.61,0.47,107.68085,16.76,0.2,83.8,33875.0,12.5,Y
+2025,6169.0,Fall River Rural Elec Coop Inc,ID,Cooperative,7.304,0.063,115.93651,7.049,0.061,115.55738,18819.0,12.0,Y
+2025,9191.0,Idaho Power Co,ID,Investor Owned,170.963,1.029,166.1448,141.162,0.963,146.58567,636130.0,34.5,Y
+2025,10454.0,Kootenai Electric Cooperative,ID,Cooperative,368.9,1.35,273.25926,93.58,0.719,130.15299,35029.0,25.0,Y
+2025,12692.0,"Missoula Electric Coop, Inc",ID,Cooperative,7.79,0.15,51.933333,0.772,0.138,5.5942029,70.0,25.0,Y
+2025,13758.0,"Northern Lights, Inc",ID,Cooperative,,,,,,,,,
+2025,14354.0,PacifiCorp,ID,Investor Owned,145.95,1.16,125.81897,145.95,1.16,125.81897,91462.0,34.5,Y
+2025,16565.0,Salmon River Electric Coop Inc,ID,Cooperative,356.051,3.824,93.109571,356.051,3.824,93.109571,3114.0,25.0,N
+2025,19502.0,"United Electric Co-op, Inc - (ID)",ID,Cooperative,225.72,1.52,148.5,118.2,1.01,117.0297,7692.0,12.5,N
+2025,56697.0,Ameren Illinois Company,IL,Investor Owned,287.4,1.19,241.51261,129.6,0.94,137.87234,1251245.0,69.0,Y
+2025,1325.0,City of Batavia - (IL),IL,Municipal,90.61,0.61,148.54098,46.61,0.31,150.35484,10737.0,34.0,N
+2025,7096.0,City of Geneva - (IL),IL,Municipal,38.481,1.021,37.68952,38.481,1.021,37.68952,10246.0,34.5,N
+2025,13208.0,City of Naperville - (IL),IL,Municipal,20.13,0.27,74.555556,,,,64025.0,12.4,Y
+2025,17828.0,City of Springfield - (IL),IL,Municipal,,,,,,,,,
+2025,17860.0,City of St Charles - (IL),IL,Municipal,,,,,,,,,
+2025,4110.0,Commonwealth Edison Co,IL,Investor Owned,76.6,0.66,116.06061,38.0,0.54,70.37037,4194773.0,34.0,Y
+2025,4362.0,Corn Belt Energy Corporation,IL,Cooperative,1364.8,7.65,178.40523,155.4,7.55,20.582781,37409.0,69.0,Y
+2025,5585.0,Eastern Illinois Elec Coop,IL,Cooperative,223.0,2.221,100.40522,157.1,1.879,83.608302,13517.0,7.2,Y
+2025,5535.0,Egyptian Electric Coop Assn,IL,Cooperative,773.2,4.621,167.32309,23.885,0.634,37.673502,15856.0,12.5,Y
+2025,9750.0,"Jo-Carroll Energy, Inc",IL,Cooperative,137.664,0.535,257.31589,37.182,0.22,169.00909,20601.0,13.8,N
+2025,12395.0,Menard Electric Coop,IL,Cooperative,185.723,2.269,81.852358,160.835,2.1,76.588095,11154.0,12.5,Y
+2025,12341.0,MidAmerican Energy Co,IL,Investor Owned,304.0,1.87,162.56684,143.0,1.47,97.278912,86395.0,13.8,Y
+2025,13032.0,Mt Carmel Public Utility Co,IL,Investor Owned,,,,,,,,,
+2025,16179.0,Rochelle Municipal Utilities - (IL),IL,Municipal,90.234,0.325,277.64308,,,,7341.0,34.5,Y
+2025,16196.0,Rock Energy Cooperative,IL,Cooperative,16.14,0.401,40.249377,15.13,0.332,45.572289,10572.0,12.5,Y
+2025,17585.0,"Southeastern IL Elec Coop, Inc",IL,Cooperative,2213.81,3.949,560.60015,172.0,1.665,103.3033,25031.9,12.4,Y
+2025,17697.0,Southwestern Electric Coop Inc - (IL),IL,Cooperative,240.9,1.919,125.53413,194.5,1.68,115.77381,24810.0,12.5,Y
+2025,18955.0,"Tri-County Electric Coop, Inc (IL)",IL,Cooperative,131.5,1.64,80.182927,62.7,0.89,70.449438,16715.0,12.5,Y
+2025,9273.0,AES Indiana,IN,Investor Owned,295.233,1.221,241.79607,75.975,0.866,87.730947,540000.0,34.0,Y
+2025,1283.0,Bartholomew County Rural E M C,IN,Cooperative,544.08,2.42,224.82645,73.78,0.88,83.840909,12209.0,12.5,Y
+2025,24753.0,Boone County Rural EMC,IN,Cooperative,147.4,1.54,95.714286,147.4,1.54,95.714286,19861.0,12.5,Y
+2025,27599.0,Carroll-White REMC,IN,Cooperative,839.4,,,553.2,,,15210.0,,N
+2025,636.0,City of Anderson - (IN),IN,Municipal,1376.22,3.0,458.74,264.06,1.7,155.32941,34344.0,13.2,Y
+2025,994.0,City of Auburn - (IN),IN,Municipal,13.9,,,,,,7956.0,12.0,N
+2025,7627.0,City of Greenfield - (IN),IN,Municipal,17.23,0.24,71.791667,17.23,0.24,71.791667,13000.0,12.5,Y
+2025,9667.0,City of Jasper - (IN),IN,Municipal,,,,,,,,,
+2025,9613.0,City of Lebanon - (IN),IN,Municipal,,,,,,,,,
+2025,14839.0,City of Peru - (IN),IN,Municipal,62.46,0.77,81.116883,39.84,0.59,67.525424,10634.0,12.5,N
+2025,15989.0,City of Richmond - (IN),IN,Municipal,,,,,,,,,
+2025,22822.0,Clark County Rural E M C - (IN),IN,Cooperative,209.544,1.26,166.30476,75.704,0.797,94.986198,28999.0,15.0,Y
+2025,4508.0,"Crawfordsville Elec, Lgt & Pwr",IN,Municipal,,,,,,,,,
+2025,4848.0,Daviess Martin County R E M C,IN,Cooperative,619.478,1.763,351.3772,187.173,1.273,147.03299,8692.0,12.5,N
+2025,4960.0,Decatur County Rural E M C,IN,Cooperative,462.762,2.762,167.54598,219.93,2.034,108.12684,8430.0,12.5,Y
+2025,5394.0,Dubois Rural Electric Coop Inc,IN,Cooperative,,,,,,,,,
+2025,15470.0,"Duke Energy Indiana, LLC",IN,Investor Owned,266.84,1.26,211.77778,107.58,0.915,117.57377,919154.0,34.5,Y
+2025,8179.0,Harrison County Rural E M C,IN,Cooperative,251.997,1.786,141.09574,140.918,1.36,103.61618,24980.0,12.4,Y
+2025,8447.0,Hendricks County Rural E M C,IN,Cooperative,168.576,1.396,120.75645,46.87,0.599,78.247078,39631.0,12.5,Y
+2025,9324.0,Indiana Michigan Power Co,IN,Investor Owned,283.3,0.973,291.16136,82.8,0.712,116.29213,485658.0,35.0,Y
+2025,9576.0,Jackson County Rural E M C - (IN),IN,Cooperative,476.03,2.694,176.70007,163.21,1.621,100.68476,25229.0,12.5,N
+2025,9665.0,Jasper County Rural E M C,IN,Cooperative,409.719,3.287,124.64831,104.306,1.751,59.569389,9852.0,7.2,Y
+2025,9778.0,Johnson County Rural E M C,IN,Cooperative,121.834,1.237,98.491512,41.567,0.543,76.550645,32127.0,12.5,Y
+2025,9999.0,Kankakee Valley Rural E M C,IN,Cooperative,415.1,6.501,63.851715,400.7,6.5,61.646154,21743.0,12.5,Y
+2025,10448.0,Kosciusko County Rural E M C,IN,Cooperative,267.67,1.98,135.18687,232.73,1.85,125.8,18846.0,12.5,Y
+2025,8000.0,NineStar Connect,IN,Cooperative,,,,,,,,,
+2025,13647.0,Noble County R E M C,IN,Cooperative,135.2,1.287,105.05051,106.5,1.126,94.582593,11730.0,12.0,Y
+2025,20603.0,Northeastern Rural E M C,IN,Cooperative,56.5,0.92,61.413043,56.5,0.92,61.413043,32900.0,12.5,Y
+2025,13756.0,Northern Indiana Pub Serv Co,IN,Investor Owned,532.0,1.32,403.0303,178.0,0.9,197.77778,494852.0,12.5,Y
+2025,17038.0,RushShelby Energy,IN,Cooperative,,,,,,,,,
+2025,12929.0,South Central Indiana REMC,IN,Cooperative,1196.16,3.96,302.06061,349.3,2.84,122.99296,35860.0,12.5,Y
+2025,17599.0,Southeastern Indiana R E M C,IN,Cooperative,345.6,2.067,167.19884,322.7,1.923,167.81071,28862.0,7.2,N
+2025,17633.0,Southern Indiana Gas & Elec Co,IN,Investor Owned,948.53,1.594,595.06274,82.61,0.78,105.91026,156503.0,12.5,Y
+2025,19445.0,"Southern Indiana R E C, Inc",IN,Cooperative,893.706,2.983,299.59973,240.106,1.676,143.26134,9713.0,12.5,Y
+2025,18100.0,Steuben County Rural E M C,IN,Cooperative,,,,,,,,,
+2025,18940.0,Tipmont Rural Elec Member Corp,IN,Cooperative,215.68,1.8,119.82222,74.85,0.91,82.252747,32292.0,12.5,Y
+2025,19667.0,Utilities Dist-Western IN REMC,IN,Cooperative,763.34,3.433,222.35363,362.51,2.58,140.50775,20030.0,7.2,Y
+2025,25295.0,Western Indiana Energy REMC,IN,Cooperative,407.552,2.307,176.65886,287.158,1.937,148.24884,16813.0,24.9,Y
+2025,20216.0,Whitewater Valley Rural EMC,IN,Cooperative,,,,,,,,,
+2025,296.0,"Alfalfa Electric Coop, Inc",KS,Cooperative,,,,,,,,,
+2025,3892.0,City of Coffeyville - (KS),KS,Municipal,45.415,0.235,193.25532,12.721,0.141,90.219858,5723.0,69.0,N
+2025,6941.0,City of Garden City,KS,Municipal,,,,,,,,,
+2025,9996.0,City of Kansas City - (KS),KS,Municipal,257.02,1.874,137.15048,130.175,1.241,104.89525,65369.0,13.8,Y
+2025,12208.0,City of McPherson - (KS),KS,Municipal,38.876,0.492,79.01626,14.453,0.277,52.176895,9018.0,34.5,Y
+2025,5860.0,Empire District Electric Co,KS,Investor Owned,146.24,1.44,101.55556,91.29,1.165,78.360515,9511.0,12.5,Y
+2025,22500.0,"Evergy Kansas Central, Inc",KS,Investor Owned,126.09,1.171,107.6772,80.16,0.926,86.565875,394945.0,34.0,Y
+2025,10005.0,"Evergy Kansas South, Inc",KS,Investor Owned,244.31,1.389,175.88913,83.78,0.914,91.66302,348043.0,34.0,Y
+2025,10000.0,Evergy Metro,KS,Investor Owned,128.51,1.019,126.11384,64.27,0.733,87.680764,288273.0,34.0,Y
+2025,10019.0,FreeState Electric Coop,KS,Cooperative,334.97,,,327.42,,,19144.0,34.5,N
+2025,12524.0,Midwest Energy Inc - (KS),KS,Cooperative,581.4,2.68,216.9403,313.8,2.23,140.71749,50434.0,13.2,Y
+2025,15073.0,"Pioneer Electric Coop, Inc - (KS)",KS,Cooperative,265.25,1.54,172.24026,218.14,1.29,169.10078,16243.0,13.2,Y
+2025,13799.0,Prairie Land Electric Coop Inc,KS,Cooperative,,,,,,,,,
+2025,60839.0,Southern Pioneer Electric Company,KS,Cooperative,145.51,1.82,79.950549,112.07,1.584,70.751263,17047.0,13.8,Y
+2025,19820.0,Victory Electric Coop Assn Inc,KS,Cooperative,355.7,,,126.4,,,20610.0,13.8,Y
+2025,20510.0,"Wheatland Electric Coop, Inc",KS,Cooperative,172.84,1.44,120.02778,121.26,1.28,94.734375,32361.0,34.5,Y
+2025,1708.0,Big Sandy Rural Elec Coop Corp,KY,Cooperative,1898.3,5.815,326.44884,1138.0,4.913,231.63037,12399.0,13.2,Y
+2025,1886.0,Blue Grass Energy Coop Corp,KY,Cooperative,426.02,1.91,223.04712,255.38,1.61,158.62112,63305.0,25.0,Y
+2025,2056.0,City of Bowling Green - (KY),KY,Municipal,45.6,0.524,87.022901,19.5,0.113,172.56637,31027.0,12.5,Y
+2025,6708.0,City of Frankfort - (KY),KY,Municipal,84.85,0.82,103.47561,29.24,0.4,73.1,22336.0,13.8,N
+2025,7270.0,City of Glasgow - (KY),KY,Municipal,163.17,2.66,61.342105,,,,7672.0,12.5,N
+2025,14268.0,City of Owensboro - (KY),KY,Municipal,87.373,1.135,76.980617,87.373,1.135,76.980617,27385.0,15.0,Y
+2025,14371.0,City of Paducah - (KY),KY,Municipal,33.276,0.875,38.029714,33.276,0.875,38.029714,22185.0,12.0,Y
+2025,3687.0,Clark Energy Coop Inc - (KY),KY,Cooperative,918.22,3.45,266.15072,324.31,2.8,115.825,29554.0,25.0,Y
+2025,4622.0,"Cumberland Valley Electric, Inc.",KY,Cooperative,910.3,4.22,215.7109,436.9,2.88,151.70139,24414.0,25.0,Y
+2025,19446.0,Duke Energy Kentucky,KY,Investor Owned,183.6,0.877,209.35006,97.89,0.731,133.91245,152376.0,12.5,Y
+2025,6194.0,Farmers Rural Electric Coop Corp - (KY),KY,Cooperative,340.6,1.62,210.24691,127.65,1.22,104.63115,25594.0,25.0,N
+2025,6442.0,Fleming-Mason Energy Coop Inc,KY,Cooperative,201.48,1.32,152.63636,178.85,1.28,139.72656,26386.0,25.0,Y
+2025,7558.0,Grayson Rural Electric Coop Corp,KY,Cooperative,2390.96,16.88,141.64455,2390.96,16.88,141.64455,15683.0,12.5,Y
+2025,8449.0,Henderson City Utility Comm,KY,Municipal,22.995,0.429,53.601399,22.995,0.429,53.601399,12316.0,13.8,N
+2025,9292.0,Inter County Energy Coop Corp - (KY),KY,Cooperative,292.8,1.781,164.40202,117.3,0.975,120.30769,28625.0,25.0,Y
+2025,9575.0,Jackson Energy Coop Corp - (KY),KY,Cooperative,915.0,3.396,269.43463,334.0,2.485,134.40644,53902.0,12.5,N
+2025,9605.0,Jackson Purchase Energy Corporation,KY,Cooperative,395.427,3.047,129.77585,170.676,1.846,92.457205,30865.0,12.5,Y
+2025,9964.0,Kenergy Corp,KY,Cooperative,691.14,3.28,210.71341,154.58,2.07,74.676329,59750.0,25.0,Y
+2025,22053.0,Kentucky Power Co,KY,Investor Owned,911.1,2.624,347.21799,376.0,2.059,182.61292,160774.0,35.0,Y
+2025,10171.0,Kentucky Utilities Co,KY,Investor Owned,196.59,1.137,172.90237,89.27,0.85,105.02353,559439.0,34.5,Y
+2025,11011.0,Licking Valley Rural E C C,KY,Cooperative,,,,,,,,,
+2025,11249.0,Louisville Gas & Electric Co,KY,Investor Owned,228.38,1.18,193.54237,94.41,0.94,100.43617,448013.0,34.5,Y
+2025,12243.0,Meade County Rural E C C,KY,Cooperative,446.165,2.597,171.80015,128.976,1.564,82.465473,31899.0,,N
+2025,13651.0,Nolin Rural Electric Coop Corp,KY,Cooperative,198.69,1.327,149.72871,50.453,0.679,74.30486,39185.0,12.5,Y
+2025,14251.0,Owen Electric Coop Inc,KY,Cooperative,135.367,1.197,113.08855,103.347,1.06,97.49717,67902.0,25.0,Y
+2025,14724.0,Pennyrile Rural Electric Coop,KY,Cooperative,,,,,,,,,
+2025,16587.0,Salt River Electric Coop Corp,KY,Cooperative,512.1,2.31,221.68831,126.1,1.35,93.407407,57946.0,10.5,Y
+2025,17044.0,"Shelby Energy Coop, Inc - (KY)",KY,Cooperative,244.9,1.86,131.66667,197.68,1.65,119.80606,18640.0,25.0,Y
+2025,17564.0,South Kentucky Rural E C C,KY,Cooperative,1367.5,2.99,457.35786,314.4,2.283,137.71353,73125.0,25.0,Y
+2025,18498.0,Taylor County Rural E C C,KY,Cooperative,456.34,2.61,174.84291,262.98,2.41,109.12033,28162.0,12.5,N
+2025,19162.0,Tri-County Elec Member Corp (TN),KY,Cooperative,527.67,3.91,134.95396,239.39,3.17,75.51735,26277.0,13.0,Y
+2025,20130.0,Warren Rural Elec Coop Corp,KY,Cooperative,475.58,3.208,148.24813,158.63,1.817,87.303247,76489.0,13.0,Y
+2025,20377.0,West Kentucky Rural E C C,KY,Cooperative,380.001,2.838,133.89746,265.006,2.413,109.82429,40562.0,24.9,Y
+2025,1458.0,"Beauregard Electric Coop, Inc",LA,Cooperative,,,,,,,,,
+2025,9096.0,City of Lafayette - (LA),LA,Municipal,29.66,0.69,42.985507,26.86,0.64,41.96875,71166.0,15.0,Y
+2025,16463.0,City of Ruston - (LA),LA,Municipal,133.17,1.61,82.714286,,,,12001.0,13.8,N
+2025,3265.0,Cleco Power LLC,LA,Investor Owned,,,,,,,,,
+2025,5202.0,Dixie Electric Membership Corp - (LA),LA,Cooperative,321.056,4.62,69.492641,275.003,4.282,64.223027,118505.0,69.0,Y
+2025,11241.0,Entergy Louisiana LLC,LA,Investor Owned,252.8,1.835,137.76567,218.1,1.664,131.06971,1129260.0,34.5,Y
+2025,13478.0,"Entergy New Orleans, LLC",LA,Investor Owned,208.9,1.839,113.59434,174.4,1.596,109.27318,211670.0,34.5,Y
+2025,9682.0,"Jefferson Davis Elec Coop, Inc",LA,Cooperative,,,,,,,,,
+2025,13783.0,Northeast Louisiana Power Coop Inc.,LA,Cooperative,265.279,2.23,118.95919,228.54,1.941,117.74343,17190.0,19.9,Y
+2025,14424.0,"Panola-Harrison Elec Coop, Inc",LA,Cooperative,,,,,,,,,
+2025,15175.0,Pointe Coupee Elec Member Corp,LA,Cooperative,,,,,,,,,
+2025,17565.0,South Louisiana Elec Coop Assn,LA,Cooperative,,,,,,,,,
+2025,17684.0,Southwest Louisiana E M C,LA,Cooperative,,,,,,,,,
+2025,17698.0,Southwestern Electric Power Co,LA,Investor Owned,450.9,3.017,149.4531,332.1,2.594,128.02621,191414.0,35.0,Y
+2025,21567.0,"Washington-St Tammany E C, Inc",LA,Cooperative,510.914,5.2,98.252692,484.399,4.791,101.10603,55871.0,13.2,Y
+2025,3477.0,City of Chicopee - (MA),MA,Municipal,12.03,0.105,114.57143,,,,26092.0,13.8,Y
+2025,8774.0,City of Holyoke - (MA),MA,Municipal,36.951,0.464,79.635776,36.951,0.464,79.635776,17671.0,,Y
+2025,13839.0,City of Norwood - (MA),MA,Municipal,117.42,1.7,69.070588,33.91,0.67,50.61194,15563.0,13.8,Y
+2025,18488.0,City of Taunton - (MA),MA,Municipal,63.603,1.412,45.044618,63.603,1.412,45.044618,39801.0,13.8,Y
+2025,20481.0,City of Westfield - (MA),MA,Municipal,194.15,1.848,105.05952,51.98,0.99,52.505051,18183.0,23.0,Y
+2025,6374.0,Fitchburg Gas & Elec Light Co,MA,Investor Owned,74.4,1.079,68.952734,74.4,1.079,68.952734,31034.0,69.0,Y
+2025,11804.0,Massachusetts Electric Co,MA,Investor Owned,132.56,1.001,132.42757,91.1,0.837,108.8411,1361506.0,34.5,Y
+2025,54913.0,NSTAR Electric Company,MA,Investor Owned,113.2,0.805,140.62112,65.77,0.658,99.954407,1463349.0,25.0,Y
+2025,13206.0,Nantucket Electric Co,MA,Investor Owned,102.6,0.972,105.55556,102.6,0.972,105.55556,14137.0,13.2,Y
+2025,2144.0,Town of Braintree - (MA),MA,Municipal,71.83,1.28,56.117188,3.76,0.1,37.6,16623.0,13.8,Y
+2025,5480.0,Town of Danvers,MA,Municipal,,,,,,,,,
+2025,8973.0,Town of Hudson - (MA),MA,Municipal,,,,,,,,,
+2025,11586.0,Town of Mansfield - (MA),MA,Municipal,20.726,0.072,287.86111,10.21,0.035,291.71429,10555.0,13.8,Y
+2025,12473.0,Town of Middleborough - (MA),MA,Municipal,,,,,,,,,
+2025,13679.0,Town of North Attleborough - (MA),MA,Municipal,9.877,0.082,120.45122,9.877,0.082,120.45122,13940.0,13.8,Y
+2025,15748.0,Town of Reading - (MA),MA,Municipal,50.2,0.48,104.58333,20.6,0.34,60.588235,30886.0,13.8,Y
+2025,17127.0,Town of Shrewsbury - (MA),MA,Municipal,830.49,2.552,325.42712,37.461,0.844,44.385071,16851.0,13.8,N
+2025,20310.0,Town of Wellesley - (MA),MA,Municipal,,,,,,,,,
+2025,84.0,A & N Electric Coop,MD,Cooperative,,,,,,,,,
+2025,1167.0,Baltimore Gas & Electric Co,MD,Investor Owned,175.133,0.869,201.53395,65.403,0.639,102.35211,1345150.0,34.0,Y
+2025,3503.0,"Choptank Electric Cooperative, Inc",MD,Cooperative,216.5,1.8,120.27778,120.6,1.47,82.040816,56839.0,25.0,Y
+2025,5027.0,Delmarva Power,MD,Investor Owned,114.0,0.93,122.58065,66.0,0.71,92.957746,215634.0,69.0,Y
+2025,5625.0,Easton Utilities Comm,MD,Municipal,30.5,0.61,50.0,20.71,0.42,49.309524,11311.0,25.0,N
+2025,15270.0,Potomac Electric Power Co,MD,Investor Owned,103.742,0.741,140.0027,53.809,0.579,92.93437,604786.0,34.0,Y
+2025,17637.0,Southern Maryland Elec Coop Inc,MD,Cooperative,173.07,1.56,110.94231,117.69,1.26,93.404762,180658.0,13.8,Y
+2025,15263.0,The Potomac Edison Company,MD,Investor Owned,399.1,1.298,307.47304,173.76,1.046,166.11855,288257.0,34.5,Y
+2025,3266.0,Central Maine Power Co,ME,Investor Owned,318.3,2.11,150.85308,177.0,1.74,101.72414,685861.0,34.5,Y
+2025,5609.0,Eastern Maine Electric Coop,ME,Cooperative,991.029,7.229,137.09075,559.355,5.777,96.824476,13265.0,25.0,Y
+2025,1179.0,Versant Power,ME,Investor Owned,500.0,2.38,210.08403,223.0,1.91,116.75393,165449.0,35.0,Y
+2025,305.0,Alger-Delta Coop Electric Assn,MI,Cooperative,1151.944,3.066,375.71559,257.184,1.594,161.34504,10361.0,34.5,Y
+2025,392.0,Alpena Power Co,MI,Investor Owned,,,,,,,,,
+2025,3436.0,Cherryland Electric Coop Inc,MI,Cooperative,99.641,0.872,114.2672,67.903,0.674,100.74629,39694.0,15.0,Y
+2025,1366.0,City of Bay City - (MI),MI,Municipal,108.724,0.863,125.98378,69.51,0.774,89.806202,21254.0,13.8,N
+2025,7483.0,City of Grand Haven - (MI),MI,Municipal,144.32,1.211,119.17424,33.486,0.673,49.756315,15155.0,13.2,Y
+2025,8723.0,City of Holland - (MI),MI,Municipal,70.76,0.4,176.9,32.65,0.346,94.364162,32200.0,13.8,Y
+2025,10704.0,City of Lansing - (MI),MI,Municipal,,,,,,,,,
+2025,11701.0,City of Marquette - (MI),MI,Municipal,891.26,3.056,291.64267,162.64,1.901,85.554971,17174.0,12.5,N
+2025,18252.0,City of Sturgis - (MI),MI,Municipal,39.152,0.372,105.24731,39.152,0.372,105.24731,7169.0,12.5,N
+2025,19125.0,City of Traverse City - (MI),MI,Municipal,39.97,0.76,52.592105,39.97,0.76,52.592105,13956.0,13.8,Y
+2025,21158.0,City of Zeeland - (MI),MI,Municipal,25.146,0.264,95.25,25.146,0.264,95.25,7098.0,12.5,N
+2025,3828.0,Cloverland Electric Co-op,MI,Cooperative,1020.3,4.41,231.36054,356.9,3.13,114.02556,44687.0,24.9,Y
+2025,3915.0,Coldwater Board of Public Util,MI,Municipal,309.536,0.939,329.6443,18.82,0.15,125.46667,7841.0,13.8,Y
+2025,4254.0,Consumers Energy Co - (MI),MI,Investor Owned,819.46,1.402,584.49358,163.48,0.875,186.83429,1899459.0,14.4,Y
+2025,5109.0,DTE Electric Company,MI,Investor Owned,191.763,1.162,165.0284,150.683,1.068,141.08895,2275368.0,13.2,Y
+2025,38084.0,Great Lakes Energy Coop,MI,Cooperative,4400.69,4.09,1075.9633,315.42,2.07,152.37681,133028.0,25.0,Y
+2025,9324.0,Indiana Michigan Power Co,MI,Investor Owned,931.8,1.826,510.29573,141.9,1.108,128.06859,132525.0,35.0,Y
+2025,12377.0,Midwest Energy Cooperative - (MI),MI,Cooperative,1012.2,2.1,482.0,267.5,1.6,167.1875,37323.0,12.5,Y
+2025,13780.0,Northern States Power Co,MI,Investor Owned,738.02,1.71,431.59064,142.09,1.18,120.41525,8947.0,34.5,Y
+2025,15340.0,Presque Isle Elec & Gas Coop,MI,Cooperative,,,,,,,,,
+2025,19396.0,Tri-County Electric Coop (MI),MI,Cooperative,1153.0,1.82,633.51648,119.0,1.28,92.96875,27394.0,25.0,N
+2025,60631.0,Upper Michigan Energy Resources Corp.,MI,Investor Owned,1249.0,2.46,507.72358,240.0,1.2,200.0,37440.0,25.0,N
+2025,19578.0,Upper Peninsula Power Company,MI,Investor Owned,445.6,2.2,202.54545,189.9,1.29,147.2093,58485.0,35.0,N
+2025,21048.0,Wyandotte Municipal Serv Comm - (MI),MI,Municipal,,,,,,,,,
+2025,12647.0,"ALLETE, Inc.",MN,Investor Owned,143.19,1.23,116.41463,102.37,1.09,93.917431,139872.0,69.0,N
+2025,155.0,Agralite Electric Coop,MN,Cooperative,255.44,1.988,128.49095,73.278,1.285,57.025681,5409.0,7.2,Y
+2025,1884.0,BENCO Electric Cooperative,MN,Cooperative,,,,,,,,,
+2025,1529.0,"Beltrami Electric Coop, Inc",MN,Cooperative,,,,89.69,0.916,97.914847,22171.0,12.5,Y
+2025,2138.0,Brainerd Public Utilities,MN,Municipal,21.31,0.305,69.868852,21.31,0.305,69.868852,8424.0,35.0,N
+2025,295.0,City of Alexandria - (MN),MN,Municipal,15.5,0.27,57.407407,9.3,0.22,42.272727,10817.0,13.2,Y
+2025,691.0,City of Anoka,MN,Municipal,19.495,0.161,121.08696,9.917,0.046,215.58696,13039.0,12.5,Y
+2025,1009.0,City of Austin - (MN),MN,Municipal,7.693,0.184,41.809783,5.225,0.086,60.755814,11853.0,13.8,Y
+2025,3400.0,City of Chaska - (MN),MN,Municipal,,,,,,,,,
+2025,5773.0,City of Elk River,MN,Municipal,18.95,0.3,63.166667,11.84,0.2,59.2,13610.0,12.5,N
+2025,11731.0,City of Marshall - (MN),MN,Municipal,4.87,0.16,30.4375,4.87,0.16,30.4375,6958.0,13.8,N
+2025,12894.0,City of Moorhead - (MN),MN,Municipal,14.501,0.438,33.107306,,,,21278.0,12.5,N
+2025,14246.0,City of Owatonna - (MN),MN,Municipal,99.973,0.755,132.41457,9.875,0.188,52.526596,12489.0,12.5,Y
+2025,21013.0,City of Worthington - (MN),MN,Municipal,,,,,,,,,
+2025,689.0,Connexus Energy,MN,Cooperative,53.812,0.551,97.662432,38.391,0.492,78.030488,148632.3,12.5,Y
+2025,4577.0,Crow Wing Cooperative Power & Light Comp,MN,Cooperative,129.581,0.934,138.73769,62.32,0.553,112.69439,48210.0,15.0,Y
+2025,25177.0,Dakota Electric Association,MN,Cooperative,28.7,0.35,82.0,20.5,0.29,70.689655,117505.0,12.5,Y
+2025,5574.0,East Central Energy,MN,Cooperative,97.0,1.03,94.174757,82.3,0.93,88.494624,68191.0,14.4,Y
+2025,6258.0,Federated Rural Electric Assn,MN,Cooperative,116.171,1.215,95.613992,116.171,1.215,95.613992,7018.0,7.2,Y
+2025,6782.0,Freeborn Mower Electric Cooperative,MN,Cooperative,172.3,1.58,109.05063,55.6,0.62,89.677419,21327.0,25.0,Y
+2025,8319.0,Heartland Power Coop,MN,Cooperative,103.18,1.26,81.888889,103.18,1.26,81.888889,38.0,15.0,Y
+2025,9130.0,Hutchinson Utilities Comm,MN,Municipal,,,,,,,,,
+2025,9475.0,Itasca-Mantrap Co-op Electrical Assn,MN,Cooperative,195.5,1.49,131.20805,104.87,1.23,85.260163,12710.0,12.5,Y
+2025,10697.0,Lake Country Power,MN,Cooperative,414.69,2.32,178.74569,141.17,1.387,101.78082,51603.0,24.9,Y
+2025,10618.0,Lake Region Electric Cooperative - (MN),MN,Cooperative,227.2,1.55,146.58065,120.56,0.88,137.0,30079.0,12.5,N
+2025,12227.0,Meeker Coop Light & Power Assn,MN,Cooperative,151.2,1.37,110.36496,128.3,1.266,101.34281,9449.0,12.4,Y
+2025,19157.0,MiEnergy Cooperative,MN,Cooperative,212.801,1.082,196.67375,79.44,0.686,115.80175,16405.0,13.8,N
+2025,12546.0,Mille Lacs Energy Cooperative,MN,Cooperative,207.85,1.35,153.96296,169.65,1.27,133.58268,16042.0,7.2,Y
+2025,40304.0,Minnesota Valley Coop L&P Assn,MN,Cooperative,124.8,1.514,82.430647,64.9,1.012,64.130435,5423.0,25.0,Y
+2025,12651.0,Minnesota Valley Electric Coop,MN,Cooperative,87.2,0.726,120.11019,49.6,0.533,93.058161,48318.0,13.8,Y
+2025,13781.0,Northern States Power Co - Minnesota,MN,Investor Owned,226.33,1.38,164.00725,115.02,1.11,103.62162,1375763.0,34.5,Y
+2025,14232.0,Otter Tail Power Co,MN,Investor Owned,557.302,1.739,320.47269,136.316,1.319,103.34799,65759.0,25.0,Y
+2025,14468.0,People's Cooperative Services,MN,Cooperative,99.08,1.232,80.422078,45.16,0.972,46.460905,24017.0,13.8,Y
+2025,16181.0,Rochester Public Utilities,MN,Municipal,33.034,0.552,59.844203,24.45,0.432,56.597222,58981.0,13.8,N
+2025,16368.0,Runestone Electric Assn,MN,Cooperative,135.42,1.57,86.254777,116.34,1.47,79.142857,15376.0,12.5,N
+2025,16971.0,Shakopee Public Utilities Comm,MN,Municipal,12.664,0.157,80.66242,12.664,0.157,80.66242,21002.0,13.8,N
+2025,17267.0,Sioux Valley SW Elec Coop,MN,Cooperative,95.162,1.899,50.111638,95.162,1.899,50.111638,3893.0,25.0,Y
+2025,17550.0,South Central Electric Assn,MN,Cooperative,125.447,1.148,109.27439,90.874,0.95,95.656842,5969.0,7.2,N
+2025,18019.0,Stearns Cooperative Elec Assn,MN,Cooperative,107.258,0.961,111.61082,96.618,0.919,105.13384,28917.0,7.2,Y
+2025,18047.0,Steele-Waseca Cooperative Electric,MN,Cooperative,90.22,0.74,121.91892,56.08,0.6,93.466667,12052.0,12.4,Y
+2025,20639.0,"Wild Rice Electric Coop, Inc",MN,Cooperative,,,,,,,,,
+2025,20737.0,Willmar Municipal Utilities (MN),MN,Municipal,16.109,0.393,40.989822,,,,10610.0,12.5,Y
+2025,20996.0,Wright-Hennepin Coop Elec Assn,MN,Cooperative,44.978,0.561,80.174688,29.287,0.44,66.561364,56939.0,12.0,Y
+2025,1775.0,Black River Electric Coop - (MO),MO,Cooperative,2908.52,,,564.32,,,25604.0,14.4,Y
+2025,2001.0,Boone Electric Coop,MO,Cooperative,66.87,0.65,102.87692,51.01,0.58,87.948276,35882.0,13.2,Y
+2025,3093.0,Carroll Electric Coop Corp - (AR),MO,Cooperative,128.88,2.0,64.44,118.51,1.93,61.404145,12548.0,24.9,Y
+2025,3268.0,Central Missouri Elec Coop Inc,MO,Cooperative,422.6,1.545,273.52751,85.6,1.025,83.512195,11569.0,25.0,N
+2025,3600.0,Citizens Electric Corporation - (MO),MO,Cooperative,1687.582,3.859,437.3107,128.094,1.594,80.3601,28056.0,13.2,Y
+2025,17833.0,City Utilities of Springfield - (MO),MO,Municipal,1287.76,2.27,567.29515,79.5,1.01,78.712871,127805.0,13.2,Y
+2025,3113.0,City of Carthage - (MO),MO,Municipal,321.39,3.85,83.477922,37.41,1.07,34.962617,8793.0,13.2,Y
+2025,4045.0,City of Columbia - (MO),MO,Municipal,97.295,0.747,130.24766,39.426,0.549,71.814208,53563.0,69.0,N
+2025,8055.0,City of Hannibal - (MO),MO,Municipal,17.67,0.33,53.545455,17.67,0.33,53.545455,8825.0,13.8,Y
+2025,9231.0,City of Independence - (MO),MO,Municipal,,,,,,,,,
+2025,10370.0,City of Kirkwood - (MO),MO,Municipal,176.805,2.0,88.4025,137.94,1.327,103.94876,10325.0,12.4,Y
+2025,12782.0,City of Monett - (MO),MO,Municipal,83.599,0.872,95.870413,46.023,0.744,61.858871,4984.0,12.5,N
+2025,15229.0,City of Poplar Bluff - (MO),MO,Municipal,,,,,,,,,
+2025,16259.0,City of Rolla - (MO),MO,Municipal,52.304,3.041,17.199605,26.15,0.92,28.423913,9610.0,34.5,N
+2025,3712.0,Clay County Electric Coop Corp - (AR),MO,Cooperative,,,,,,,,,
+2025,4063.0,Co-Mo Electric Coop Inc,MO,Cooperative,158.1,1.083,145.98338,69.2,0.609,113.6289,33890.0,25.0,Y
+2025,4237.0,Consolidated Electric Coop,MO,Cooperative,232.935,1.177,197.90569,120.047,0.851,141.0658,8359.0,12.5,Y
+2025,4524.0,"Crawford Electric Coop, Inc",MO,Cooperative,361.984,2.04,177.44314,216.177,1.744,123.9547,21820.0,25.0,Y
+2025,4675.0,Cuivre River Electric Coop Inc,MO,Cooperative,135.49,1.214,111.60626,135.49,1.214,111.60626,74501.0,25.0,Y
+2025,5860.0,Empire District Electric Co,MO,Investor Owned,166.72,1.104,151.01449,109.67,0.963,113.8837,160704.0,25.0,Y
+2025,10000.0,Evergy Metro,MO,Investor Owned,178.28,1.503,118.6161,99.25,1.195,83.054393,313505.0,34.0,Y
+2025,12698.0,Evergy Missouri West,MO,Investor Owned,183.46,1.486,123.45895,103.8,1.184,87.668919,350586.0,34.0,Y
+2025,6181.0,"Farmers Electric Coop, Inc - (MO)",MO,Cooperative,197.37,1.88,104.98404,117.04,1.21,96.727273,13739.0,13.2,Y
+2025,9331.0,Intercounty Electric Coop Assn - (MO),MO,Cooperative,707.086,3.095,228.46074,250.786,2.323,107.95781,32123.0,12.5,Y
+2025,10603.0,"Laclede Electric Coop, Inc",MO,Cooperative,155.4,2.07,75.072464,123.1,1.83,67.26776,39269.0,12.5,Y
+2025,11463.0,Macon Electric Coop,MO,Cooperative,,,,,,,,,
+2025,14192.0,Osage Valley Elec Coop Assn,MO,Cooperative,,,,,,,,,
+2025,15138.0,"Platte-Clay Electric Coop, Inc",MO,Cooperative,78.961,1.066,74.072233,58.775,0.855,68.74269,25253.0,12.5,Y
+2025,16805.0,SEMO Electric Cooperative,MO,Cooperative,,,,,,,,,
+2025,27238.0,"Southwest Electric Coop, Inc",MO,Cooperative,355.95,1.0,355.95,214.35,0.92,232.98913,44904.0,7.2,Y
+2025,16751.0,Three Rivers Electric Coop,MO,Cooperative,130.045,1.04,125.04327,104.063,0.909,114.48075,24579.6,25.0,Y
+2025,19436.0,Union Electric Co - (MO),MO,Investor Owned,594.0,1.18,503.38983,119.0,0.76,156.57895,1284472.0,69.0,Y
+2025,20318.0,Webster Electric Coop,MO,Cooperative,,,,,,,,,
+2025,20363.0,West Central Electric Coop Inc - (MO),MO,Cooperative,108.646,0.949,114.48472,66.529,,,15724.0,7.6,Y
+2025,6641.0,4-County Electric Power Assn,MS,Cooperative,,,,,,,,,
+2025,276.0,Alcorn County Elec Power Assn,MS,Cooperative,,,,,,,,,
+2025,2849.0,Central Electric Power Assn - (MS),MS,Cooperative,,,,,,,,,
+2025,4068.0,City of Columbus - (MS),MS,Municipal,164.55,0.977,168.42375,33.7,0.377,89.38992,12609.0,13.0,N
+2025,14275.0,City of Oxford - (MS),MS,Municipal,137.31,1.11,123.7027,46.04,0.41,112.29268,10644.0,13.0,Y
+2025,18006.0,City of Starkville,MS,Municipal,,,,,,,,,
+2025,3841.0,Coast Electric Power Assn - (MS),MS,Cooperative,120.451,1.7,70.853529,83.2,1.24,67.096774,91460.0,24.9,Y
+2025,22815.0,Delta Electric Power Assn,MS,Cooperative,1941.04,5.81,334.08606,577.52,2.99,193.1505,28950.0,24.9,Y
+2025,5175.0,Dixie Electric Power Assn - (MS),MS,Cooperative,,,,,,,,,
+2025,5578.0,East Mississippi Elec Pwr Assn,MS,Cooperative,5.95,2.57,2.3151751,5.22,2.4,2.175,12974.0,25.0,Y
+2025,12685.0,Entergy Mississippi LLC,MS,Investor Owned,640.1,2.611,245.15511,410.1,2.068,198.30754,464256.0,34.5,Y
+2025,11519.0,Magnolia Electric Power Assn,MS,Cooperative,1257.91,,,,,,33447.0,,Y
+2025,12686.0,Mississippi Power Co,MS,Investor Owned,105.14,1.03,102.07767,75.65,0.881,85.868331,192650.0,22.8,Y
+2025,40302.0,North East Mississippi EPA,MS,Cooperative,,,,,,,,,
+2025,13735.0,Northcentral Mississippi E P A,MS,Cooperative,245.0,1.52,161.18421,245.0,1.52,161.18421,35275.0,25.0,Y
+2025,14563.0,Pearl River Valley El Pwr Assn,MS,Cooperative,295.45,3.792,77.91403,260.697,3.657,71.287121,54018.0,25.0,N
+2025,17252.0,Singing River Elec Cooperative,MS,Cooperative,156.366,,,156.366,,,78172.2,25.0,N
+2025,17647.0,Southern Pine Electric Cooperative,MS,Cooperative,649.05,5.459,118.8954,446.46,4.583,97.416539,70472.0,25.0,Y
+2025,17683.0,Southwest Mississippi E P A,MS,Cooperative,2736.1,,,1832.1,,,25350.0,34.5,Y
+2025,18447.0,Tallahatchie Valley E P A,MS,Cooperative,,,,,,,,,
+2025,19545.0,"Black Hills Power, Inc.",MT,Investor Owned,756.267,3.433,220.29333,672.633,2.433,276.46239,47.0,35.0,Y
+2025,6169.0,Fall River Rural Elec Coop Inc,MT,Cooperative,14.417,0.097,148.62887,14.06,0.093,151.1828,2099.0,12.0,Y
+2025,21513.0,"Fergus Electric Coop, Inc",MT,Cooperative,,,,,,,,,
+2025,6395.0,Flathead Electric Coop Inc,MT,Cooperative,885.98,2.29,386.89083,174.02,1.6,108.7625,79942.0,24.9,N
+2025,11272.0,"Lower Yellowstone R E A, Inc",MT,Cooperative,,,,,,,,,
+2025,12692.0,"Missoula Electric Coop, Inc",MT,Cooperative,1331.91,2.403,554.26966,363.081,1.844,196.89859,17426.0,25.0,Y
+2025,12199.0,Montana-Dakota Utilities Co,MT,Investor Owned,146.35,1.232,118.79058,146.32,1.232,118.76623,27906.0,22.0,Y
+2025,12825.0,NorthWestern Energy LLC - (MT),MT,Investor Owned,125.337,1.101,113.83924,116.813,1.063,109.88993,383135.0,34.5,N
+2025,13758.0,"Northern Lights, Inc",MT,Cooperative,,,,,,,,,
+2025,240.0,Albemarle Electric Member Corp,NC,Cooperative,,,,,,,,,
+2025,1889.0,Blue Ridge Elec Member Corp - (NC),NC,Cooperative,541.56,2.22,243.94595,110.21,1.454,75.797799,80146.0,15.0,Y
+2025,24889.0,Brunswick Electric Member Corp,NC,Cooperative,40.844,0.641,63.719189,35.487,0.598,59.342809,118324.0,,Y
+2025,3107.0,Carteret-Craven El Member Corp,NC,Cooperative,117.7,1.546,76.131953,72.26,1.106,65.334539,43238.7,12.5,Y
+2025,3250.0,Central Electric Membership Corp. - (NC),NC,Cooperative,267.728,,,148.187,,,23325.0,25.0,Y
+2025,232.0,City of Albemarle - (NC),NC,Municipal,14.09,0.06,234.83333,6.89,0.03,229.66667,12505.0,14.4,N
+2025,4150.0,City of Concord - (NC),NC,Municipal,65.316,0.609,107.25123,65.316,0.609,107.25123,34517.0,13.2,N
+2025,7027.0,City of Gastonia - (NC),NC,Municipal,362.14,0.97,373.34021,150.43,0.7,214.9,31892.0,12.5,Y
+2025,10345.0,City of Kinston - (NC),NC,Municipal,63.83,0.482,132.42739,63.83,0.482,132.42739,12037.0,12.4,N
+2025,10966.0,City of Lexington - (NC),NC,Municipal,,,,,,,,,
+2025,11318.0,City of Lumberton - (NC),NC,Municipal,,,,,,,,,
+2025,12801.0,City of Monroe - (NC),NC,Municipal,30.984,0.522,59.356322,18.223,0.266,68.507519,13960.0,34.5,N
+2025,12944.0,City of Morganton - (NC),NC,Municipal,,,,,,,,,
+2025,13416.0,City of New Bern - (NC),NC,Municipal,115.146,0.984,117.01829,36.863,0.485,76.006186,25372.0,23.0,Y
+2025,16226.0,City of Rocky Mount - (NC),NC,Municipal,81.36,1.2,67.8,71.91,1.08,66.583333,29489.0,12.5,N
+2025,18022.0,City of Statesville - (NC),NC,Municipal,78.299,0.574,136.40941,38.141,0.515,74.060194,15253.0,22.9,Y
+2025,20785.0,City of Wilson - (NC),NC,Municipal,65.802,0.546,120.51648,50.748,0.494,102.72874,38293.0,23.0,Y
+2025,5416.0,"Duke Energy Carolinas, LLC",NC,Investor Owned,215.66,1.352,159.51183,171.87,1.216,141.34046,2193740.0,44.0,Y
+2025,3046.0,Duke Energy Progress - (NC),NC,Investor Owned,183.16,1.411,129.80865,144.54,1.262,114.53249,1679755.0,34.5,Y
+2025,5656.0,Edgecombe-Martin County E M C,NC,Cooperative,103.764,1.182,87.786802,103.764,1.182,87.786802,11742.0,,Y
+2025,21632.0,EnergyUnited Elec Member Corp,NC,Cooperative,169.44,1.56,108.61538,120.84,1.287,93.892774,133277.0,12.5,Y
+2025,6235.0,Fayetteville Public Works Commission,NC,Municipal,115.882,1.937,59.825503,72.457,1.364,53.120968,87507.0,25.0,Y
+2025,6640.0,Four County Elec Member Corp,NC,Cooperative,,,,,,,,,
+2025,6784.0,French Broad Elec Member Corp,NC,Cooperative,,,,,,,,,
+2025,7639.0,Greenville Utilities Comm,NC,Municipal,42.53,0.41,103.73171,27.65,0.37,74.72973,77455.0,12.5,N
+2025,8333.0,Haywood Electric Member Corp,NC,Cooperative,776.287,5.086,152.63213,554.282,4.686,118.28468,29374.0,12.5,Y
+2025,9837.0,Jones-Onslow Elec Member Corp,NC,Cooperative,57.347,0.698,82.159026,52.89,0.663,79.773756,85001.0,13.2,Y
+2025,11291.0,Lumbee River Elec Member Corp,NC,Cooperative,151.837,1.726,87.970452,100.18,1.363,73.499633,67781.0,25.0,Y
+2025,13482.0,New River Light & Power Co,NC,State,109.89,0.69,159.26087,36.42,0.6,60.7,9178.0,12.5,Y
+2025,14717.0,Pee Dee Electric Member Corp,NC,Cooperative,284.6,2.724,104.47871,170.52,2.166,78.725762,22020.0,24.9,Y
+2025,15023.0,Piedmont Electric Member Corp,NC,Cooperative,502.728,1.755,286.4547,146.087,1.21,120.73306,34871.0,12.5,N
+2025,15671.0,Randolph Electric Member Corp,NC,Cooperative,224.95,2.159,104.19176,107.9,1.521,70.940171,34131.0,24.8,Y
+2025,16101.0,Roanoke Electric Member Corp,NC,Cooperative,178.58,1.478,120.82544,178.58,1.478,120.82544,15996.0,25.0,Y
+2025,16496.0,Rutherford Elec Member Corp,NC,Cooperative,149.27,1.238,120.57351,134.74,1.077,125.10678,78498.0,13.2,Y
+2025,17572.0,South River Elec Member Corp,NC,Cooperative,,,,,,,,,
+2025,18339.0,Surry-Yadkin Elec Member Corp,NC,Cooperative,249.3,1.814,137.43109,176.4,1.387,127.18097,28798.0,12.4,Y
+2025,19108.0,Tideland Electric Member Corp,NC,Cooperative,205.3,2.494,82.317562,164.331,2.271,72.360634,24442.0,25.0,Y
+2025,719.0,Town of Apex- (NC),NC,Municipal,44.55,0.3,148.5,11.52,0.1,115.2,32458.0,25.0,Y
+2025,8571.0,Town of High Point,NC,Municipal,108.48,1.39,78.043165,86.04,1.33,64.691729,44670.0,12.4,Y
+2025,9087.0,Town of Huntersville - (NC),NC,Municipal,23.78,0.22,108.09091,23.78,0.22,108.09091,10027.0,12.5,N
+2025,18957.0,Tri-County Elec Member Corp (NC),NC,Cooperative,88.71,0.65,136.47692,88.71,0.65,136.47692,27418.0,12.5,Y
+2025,19435.0,Union Electric Membership Corp - (NC),NC,Cooperative,51.72,0.678,76.283186,47.26,0.634,74.542587,88138.0,24.9,N
+2025,19876.0,Virginia Electric & Power Co,NC,Investor Owned,,,,,,,,,
+2025,19981.0,Wake Electric Membership Corp,NC,Cooperative,211.0,1.935,109.04393,128.0,1.624,78.817734,58110.0,12.5,Y
+2025,2985.0,"Capital Electric Coop, Inc",ND,Cooperative,,,,,,,,,
+2025,24949.0,Cass County Elec Coop Inc,ND,Cooperative,299.857,0.768,390.4388,23.715,0.388,61.121134,60022.0,23.9,Y
+2025,4717.0,Dakota Valley Elec Coop Inc,ND,Cooperative,63.8,0.34,187.64706,49.5,0.32,154.6875,7049.0,25.0,Y
+2025,11272.0,"Lower Yellowstone R E A, Inc",ND,Cooperative,,,,,,,,,
+2025,12087.0,McKenzie Electric Coop Inc,ND,Cooperative,110.84,0.929,119.31109,110.83,0.929,119.30032,13646.0,25.0,N
+2025,12199.0,Montana-Dakota Utilities Co,ND,Investor Owned,94.59,0.81,116.77778,64.91,0.7,92.728571,100446.0,22.0,Y
+2025,20413.0,Mountrail-Williams Elec Coop,ND,Cooperative,115.71,1.16,99.75,115.71,1.16,99.75,19270.0,25.0,Y
+2025,12301.0,Nodak Electric Coop Inc,ND,Cooperative,321.1,5.4,59.462963,104.3,2.9,35.965517,21486.0,35.0,Y
+2025,13196.0,Northern Plains Electric Coop,ND,Cooperative,371.0,1.428,259.80392,188.4,1.31,143.81679,12276.0,12.5,Y
+2025,13781.0,Northern States Power Co - Minnesota,ND,Investor Owned,87.59,0.55,159.25455,57.04,0.46,124.0,96332.0,34.5,Y
+2025,14232.0,Otter Tail Power Co,ND,Investor Owned,575.006,2.034,282.69715,131.94,1.335,98.831461,60770.0,25.0,Y
+2025,19790.0,Verendrye Electric Coop Inc,ND,Cooperative,41.67,0.65,64.107692,41.67,0.65,64.107692,20746.0,25.0,N
+2025,6779.0,City of Fremont - (NE),NE,Municipal,3080.76,1.8,1711.5333,18.42,0.23,80.086957,16688.0,15.0,N
+2025,40606.0,City of Grand Island - (NE),NE,Municipal,37.078,1.004,36.930279,8.56,0.366,23.387978,27291.0,13.8,N
+2025,8245.0,City of Hastings - (NE),NE,Municipal,49.85,0.304,163.98026,7.09,0.078,90.897436,13960.0,13.8,Y
+2025,4373.0,Cornhusker Public Power Dist,NE,Political Subdivision,,,,,,,,,
+2025,4671.0,Custer Public Power District,NE,Political Subdivision,,,,,,,,,
+2025,4911.0,Dawson Power District,NE,Political Subdivision,,,,,,,,,
+2025,5780.0,Elkhorn Rural Public Pwr Dist,NE,Political Subdivision,,,,,,,,,
+2025,11018.0,Lincoln Electric System,NE,Municipal,240.5,0.74,325.0,18.4,0.25,73.6,154489.0,34.5,Y
+2025,11251.0,Loup River Public Power Dist,NE,Political Subdivision,,,,,,,,,
+2025,12539.0,Midwest Electric Member Corp - (NE),NE,Cooperative,65.225,0.389,167.67352,65.225,0.388,168.10567,6846.0,34.5,N
+2025,13337.0,Nebraska Public Power District,NE,Political Subdivision,195.41,0.9,217.12222,76.96,0.65,118.4,95148.0,69.0,Y
+2025,13664.0,Norris Public Power District,NE,Political Subdivision,2541.431,3.124,813.51825,464.752,1.485,312.96431,29031.0,12.5,Y
+2025,14127.0,Omaha Public Power District,NE,Political Subdivision,558.3,1.57,355.6051,98.1,0.73,134.38356,407892.0,13.8,Y
+2025,21111.0,Perennial Public Power Dist,NE,Political Subdivision,,,,,,,,,
+2025,17692.0,Southwest Public Power Dist,NE,Political Subdivision,80.21,0.98,81.846939,80.21,0.98,81.846939,6488.0,7.2,Y
+2025,17979.0,Stanton County Public Pwr Dist,NE,Political Subdivision,,,,,,,,,
+2025,26510.0,Liberty Utilities (Granite State Electri,NH,Investor Owned,124.71,1.072,116.33396,108.54,0.985,110.19289,48072.0,23.0,Y
+2025,13441.0,New Hampshire Elec Coop Inc,NH,Cooperative,,,,,,,,,
+2025,15472.0,Public Service Co of NH,NH,Investor Owned,160.5,1.09,147.24771,83.4,0.742,112.39892,555603.0,34.5,Y
+2025,24590.0,Unitil Energy Systems,NH,Investor Owned,98.32,1.36,72.294118,91.09,0.99,92.010101,80020.0,34.5,Y
+2025,963.0,Atlantic City Electric Co,NJ,Investor Owned,80.0,0.73,109.58904,55.0,0.64,85.9375,573227.0,69.0,Y
+2025,9726.0,Jersey Central Power & Lt Co,NJ,Investor Owned,390.73,2.207,177.04123,234.15,1.889,123.95447,1153378.0,34.5,Y
+2025,15477.0,Public Service Elec & Gas Co,NJ,Investor Owned,66.25,0.72,92.013889,42.57,0.63,67.571429,2575136.0,69.0,Y
+2025,16213.0,Rockland Electric Co,NJ,Investor Owned,,,,,,,,,
+2025,3273.0,"Central New Mexico El Coop, Inc",NM,Cooperative,,,,,,,,,
+2025,3287.0,"Central Valley Elec Coop, Inc",NM,Cooperative,326.3,2.185,149.33638,279.625,2.053,136.20312,18328.0,25.0,Y
+2025,6204.0,City of Farmington - (NM),NM,Municipal,75.23,0.593,126.86341,,,,45167.0,13.8,Y
+2025,4265.0,Continental Divide El Coop Inc,NM,Cooperative,234.5,1.53,153.26797,234.5,1.53,153.26797,23663.0,69.0,Y
+2025,5701.0,El Paso Electric Co,NM,Investor Owned,116.382,1.242,93.705314,116.382,1.242,93.705314,110962.0,23.9,Y
+2025,6198.0,"Farmers Electric Coop, Inc - (NM)",NM,Cooperative,198.0,1.528,129.58115,198.0,1.528,129.58115,13767.0,,N
+2025,9699.0,"Jemez Mountains Elec Coop, Inc",NM,Cooperative,561.722,3.81,147.4336,472.383,3.454,136.76404,31000.0,14.4,Y
+2025,10378.0,"Kit Carson Electric Coop, Inc",NM,Cooperative,304.97,2.33,130.88841,238.28,1.7,140.16471,31125.0,24.9,N
+2025,10817.0,"Lea County Electric Coop, Inc - (NM)",NM,Cooperative,,,,,,,,,
+2025,11204.0,Los Alamos County - (NM),NM,Municipal,19.53,0.8,24.4125,19.53,0.8,24.4125,9045.0,13.2,N
+2025,13314.0,Navajo Tribal Utility Authority,NM,State,,,,,,,,,
+2025,15473.0,Public Service Co of NM,NM,Investor Owned,125.1,0.937,133.51121,116.51,0.868,134.22811,557399.0,25.0,Y
+2025,16057.0,"Rio Grande Electric Coop, Inc",NM,Cooperative,194.652,,,134.447,,,325.0,24.9,N
+2025,17718.0,Southwestern Public Service Co,NM,Investor Owned,234.69,1.43,164.11888,144.98,1.09,133.00917,119830.0,34.5,Y
+2025,2008.0,City of Boulder City - (NV),NV,Municipal,345.14,0.95,363.30526,33.78,0.64,52.78125,8327.0,12.5,N
+2025,13407.0,Nevada Power Co,NV,Investor Owned,71.25,0.65,109.61538,53.82,0.58,92.793103,1113426.0,60.0,Y
+2025,14245.0,Overton Power District No 5,NV,Political Subdivision,13.44,0.18,74.666667,13.44,0.18,74.666667,18963.0,69.0,Y
+2025,17166.0,Sierra Pacific Power Co,NV,Investor Owned,288.06,2.51,114.76494,239.69,2.27,105.59031,400458.0,60.0,Y
+2025,19840.0,"Valley Electric Assn, Inc",NV,Cooperative,92.89,0.844,110.05924,50.07,0.536,93.414179,24626.0,24.9,Y
+2025,3249.0,Central Hudson Gas & Elec Corp,NY,Investor Owned,290.1,1.5,193.4,182.3,1.3,140.23077,321233.0,34.5,N
+2025,4226.0,Consolidated Edison Co-NY Inc,NY,Investor Owned,,,,,,,,,
+2025,9645.0,Jamestown Board of Public Util,NY,Municipal,,,,,,,,,
+2025,11171.0,Long Island Power Authority,NY,State,,,,,,,,,
+2025,13511.0,New York State Elec & Gas Corp,NY,Investor Owned,,,,,,,,,
+2025,13573.0,Niagara Mohawk Power Corp.,NY,Investor Owned,242.29,1.393,173.93396,140.22,1.11,126.32432,1692175.0,69.0,Y
+2025,14154.0,Orange & Rockland Utils Inc,NY,Investor Owned,,,,,,,,,
+2025,16183.0,Rochester Gas & Electric Corp,NY,Investor Owned,,,,,,,,,
+2025,11811.0,Town of Massena - (NY),NY,Municipal,,,,,,,,,
+2025,5930.0,Village of Fairport - (NY),NY,Municipal,92.873,1.852,50.147408,17.722,0.197,89.959391,17977.0,12.5,Y
+2025,6775.0,Village of Freeport - (NY),NY,Municipal,12.16,0.222,54.774775,12.16,0.222,54.774775,14613.0,13.8,N
+2025,2502.0,"Buckeye Rural Elec Coop, Inc",OH,Cooperative,995.378,3.195,311.54241,995.024,3.191,311.822,18888.0,12.5,Y
+2025,2651.0,Butler Rural Electric Coop Inc - (OH),OH,Cooperative,171.97,1.59,108.15723,102.99,1.39,74.093525,11916.0,12.0,Y
+2025,2054.0,City of Bowling Green - (OH),OH,Municipal,137.199,1.423,96.41532,6.648,0.088,75.545455,15008.0,12.5,N
+2025,3762.0,City of Cleveland - (OH),OH,Municipal,224.79,0.69,325.78261,191.1,0.646,295.82043,73615.0,13.8,Y
+2025,4065.0,City of Columbus - (OH),OH,Municipal,140.88,1.45,97.158621,140.88,1.45,97.158621,18979.0,14.4,Y
+2025,4683.0,City of Cuyahoga Falls - (OH),OH,Municipal,55.659,0.509,109.34971,45.067,0.494,91.228745,26837.0,23.9,N
+2025,5336.0,City of Dover - (OH),OH,Municipal,113.81,0.89,127.8764,32.38,0.37,87.513514,6896.0,12.5,N
+2025,7977.0,City of Hamilton - (OH),OH,Municipal,121.08,1.34,90.358209,60.8,0.95,64.0,30162.0,13.8,Y
+2025,14194.0,City of Orrville - (OH),OH,Municipal,,,,,,,,,
+2025,14381.0,City of Painesville - (OH),OH,Municipal,154.296,2.29,67.378166,69.674,1.228,56.737785,12598.0,13.8,N
+2025,15095.0,City of Piqua - (OH),OH,Municipal,17.734,0.305,58.144262,17.734,0.305,58.144262,10899.0,13.0,N
+2025,19951.0,City of Wadsworth - (OH),OH,Municipal,43.53,0.512,85.019531,43.53,0.512,85.019531,13866.0,1.0,Y
+2025,20477.0,City of Westerville - (OH),OH,Municipal,24.58,0.29,84.758621,24.58,0.29,84.758621,18095.0,13.2,Y
+2025,3755.0,Cleveland Electric Illum Co,OH,Investor Owned,195.46,1.369,142.77575,136.0,1.216,111.84211,745881.0,36.0,Y
+2025,12990.0,Consolidated Cooperative,OH,Cooperative,162.0,1.99,81.407035,109.0,1.49,73.154362,19405.0,12.5,Y
+2025,4922.0,Dayton Power & Light Co,OH,Investor Owned,167.6,0.99,169.29293,96.48,0.75,128.64,619282.0,13.0,Y
+2025,3542.0,Duke Energy Ohio Inc,OH,Investor Owned,177.76,1.015,175.133,108.39,0.871,124.44317,760555.0,34.5,Y
+2025,7891.0,Guernsey-Muskingum El Coop Inc,OH,Cooperative,695.035,2.445,284.26789,282.141,1.921,146.87194,17466.0,12.5,Y
+2025,8034.0,Hancock-Wood Electric Coop Inc,OH,Cooperative,61.82,1.34,46.134328,42.6,0.98,43.469388,13535.0,12.5,Y
+2025,8761.0,Holmes-Wayne Electric Coop Inc,OH,Cooperative,325.543,2.187,148.85368,274.456,1.933,141.98448,18117.0,12.5,N
+2025,10668.0,Licking Rural Electric Inc,OH,Cooperative,244.0,1.57,155.41401,112.0,1.03,108.73786,27801.0,12.7,Y
+2025,11200.0,"Lorain-Medina R E C, Inc",OH,Cooperative,214.525,,,172.711,,,16897.0,12.5,Y
+2025,12515.0,"Midwest Electric, Inc - (OH)",OH,Cooperative,254.8,1.881,135.45986,91.4,0.956,95.606695,11284.0,12.5,Y
+2025,12377.0,Midwest Energy Cooperative - (MI),OH,Cooperative,195.4,1.1,177.63636,195.4,1.1,177.63636,1082.0,12.5,Y
+2025,13693.0,"North Central Elec Coop, Inc - (OH)",OH,Cooperative,165.3,,,161.76,,,9758.0,12.5,Y
+2025,13998.0,Ohio Edison Co,OH,Investor Owned,243.64,1.509,161.45792,131.45,1.232,106.69643,1067297.0,36.0,Y
+2025,14006.0,Ohio Power Co,OH,Investor Owned,220.7,1.223,180.45789,145.2,1.084,133.94834,1543930.0,35.0,Y
+2025,15054.0,"Pioneer Rural Elec Coop, Inc - (OH)",OH,Cooperative,129.4,1.5,86.266667,129.4,1.5,86.266667,17852.0,12.0,N
+2025,18085.0,South Central Power Company,OH,Cooperative,298.08,2.834,105.17996,197.791,2.448,80.796977,127185.0,7.2,Y
+2025,18997.0,The Toledo Edison Co,OH,Investor Owned,109.6,0.953,115.00525,91.77,0.883,103.92978,313541.0,23.0,Y
+2025,19501.0,"Union Rural Electric Coop, Inc",OH,Cooperative,183.8,2.12,86.698113,62.0,1.014,61.143984,12813.0,24.9,Y
+2025,296.0,"Alfalfa Electric Coop, Inc",OK,Cooperative,,,,,,,,,
+2025,817.0,Arkansas Valley Elec Coop Corp,OK,Cooperative,198.29,2.46,80.605691,118.04,1.9,62.126316,4705.0,7.2,Y
+2025,60482.0,CKenergy Electric Cooperative,OK,Cooperative,,,,,,,,,
+2025,2911.0,"Canadian Valley Elec Coop, Inc",OK,Cooperative,287.3,1.508,190.51724,226.4,1.396,162.17765,27755.0,24.9,Y
+2025,3226.0,"Central Rural Electric Cooperative, Inc",OK,Cooperative,274.82,1.579,174.04687,137.68,1.28,107.5625,24833.0,25.0,Y
+2025,3527.0,Choctaw Electric Coop Inc,OK,Cooperative,,,,,,,,,
+2025,3478.0,Cimarron Electric Coop,OK,Cooperative,69.6,0.838,83.054893,43.2,0.601,71.8802,19960.0,24.9,N
+2025,3647.0,City of Claremore,OK,Municipal,172.936,1.991,86.858865,171.854,1.983,86.663641,13507.0,13.2,N
+2025,5661.0,City of Edmond - (OK),OK,Municipal,115.771,1.457,79.458476,82.383,1.193,69.055323,44881.0,12.4,Y
+2025,15202.0,City of Ponca City - (OK),OK,Municipal,144.034,1.42,101.43239,115.978,1.157,100.24028,15990.0,12.5,Y
+2025,4296.0,"Cookson Hills Elec Coop, Inc",OK,Cooperative,488.187,2.324,210.06325,258.843,1.885,137.31724,19134.0,13.2,Y
+2025,4401.0,"Cotton Electric Coop, Inc",OK,Cooperative,549.43,4.05,135.66173,237.89,2.54,93.65748,23781.0,25.0,N
+2025,5598.0,East Central Oklahoma Elec Coop Inc,OK,Cooperative,418.715,2.968,141.07648,321.118,2.696,119.10905,37567.0,25.0,Y
+2025,5860.0,Empire District Electric Co,OK,Investor Owned,199.63,2.249,88.763895,102.24,1.338,76.412556,5557.0,12.5,Y
+2025,7490.0,Grand River Dam Authority,OK,State,,,,,,,,,
+2025,9246.0,"Indian Electric Coop, Inc",OK,Cooperative,102.4,0.634,161.5142,44.1,0.432,102.08333,20708.0,24.9,Y
+2025,10170.0,"Kiamichi Electric Coop, Inc",OK,Cooperative,2322.2,4.56,509.25439,587.6,3.44,170.81395,23168.0,14.4,Y
+2025,10599.0,"Lake Region Electric Coop, Inc - (OK)",OK,Cooperative,316.524,1.502,210.73502,107.742,1.005,107.20597,26736.0,12.5,Y
+2025,14062.0,Oklahoma Electric Coop Inc,OK,Cooperative,70.4,1.292,54.489164,55.8,0.945,59.047619,65768.0,14.4,N
+2025,14063.0,Oklahoma Gas & Electric Co,OK,Investor Owned,,,,,,,,,
+2025,14289.0,Ozarks Electric Coop Corp - (AR),OK,Cooperative,1043.14,2.71,384.92251,131.63,1.4,94.021429,13027.0,24.9,Y
+2025,14775.0,People's Electric Cooperative,OK,Cooperative,,,,,,,,,
+2025,15474.0,Public Service Co of Oklahoma,OK,Investor Owned,199.6,1.484,134.50135,98.1,1.161,84.496124,582915.0,35.0,Y
+2025,16382.0,"Rural Electric Coop, Inc - (OK)",OK,Cooperative,697.8,4.489,155.44665,212.0,2.435,87.063655,12757.0,25.0,Y
+2025,17603.0,Southeastern Electric Coop Inc - (OK),OK,Cooperative,398.0,2.142,185.80766,268.0,1.0,268.0,17466.0,14.4,Y
+2025,18125.0,Stillwater Utilities Authority,OK,Municipal,1024.09,1.55,660.70323,21.51,0.35,61.457143,22135.0,13.0,Y
+2025,19160.0,"Tri-County Electric Coop, Inc (OK)",OK,Cooperative,,,,,,,,,
+2025,19785.0,Verdigris Valley Elec Coop Inc,OK,Cooperative,,,,,,,,,
+2025,3264.0,Central Lincoln People's Ut Dt,OR,Political Subdivision,515.599,1.917,268.9614,,,,41451.0,12.0,Y
+2025,6022.0,City of Eugene - (OR),OR,Municipal,49.29,0.28,176.03571,49.29,0.28,176.03571,100777.0,12.5,Y
+2025,6582.0,City of Forest Grove,OR,Municipal,,,,,,,,,
+2025,12187.0,City of McMinnville - (OR),OR,Municipal,,,,,,,,,
+2025,17839.0,City of Springfield - (OR),OR,Municipal,39.89,0.79,50.493671,10.85,0.13,83.461538,33482.0,20.8,N
+2025,28541.0,Clatskanie Peoples Util Dist,OR,Political Subdivision,397.2,1.102,360.43557,197.2,0.797,247.42785,4799.0,13.8,Y
+2025,40438.0,Columbia River Peoples Ut Dist,OR,Political Subdivision,170.025,0.576,295.18229,37.212,0.391,95.171355,20860.0,12.5,Y
+2025,4743.0,"Consumers Power, Inc",OR,Cooperative,738.93,2.563,288.30667,156.27,1.168,133.79281,23923.0,25.0,Y
+2025,4317.0,"Coos-Curry Electric Coop, Inc",OR,Cooperative,187.7,1.14,164.64912,77.44,0.67,115.58209,18713.0,24.9,N
+2025,9191.0,Idaho Power Co,OR,Investor Owned,272.501,1.471,185.24881,269.581,1.413,190.78627,20304.0,34.5,Y
+2025,10681.0,Lane Electric Coop Inc,OR,Cooperative,,,,,,,,,
+2025,12439.0,"Midstate Electric Coop, Inc",OR,Cooperative,,,,,,,,,
+2025,13788.0,Northern Wasco County PUD - (OR),OR,Political Subdivision,26.874,0.276,97.369565,16.779,0.253,66.320158,10740.0,12.5,Y
+2025,14109.0,"Oregon Trail El Cons Coop, Inc",OR,Cooperative,,,,,,,,,
+2025,14354.0,PacifiCorp,OR,Investor Owned,385.38,1.52,253.53947,104.29,0.91,114.6044,645587.0,34.5,Y
+2025,15248.0,Portland General Electric Co,OR,Investor Owned,273.0,0.89,306.74157,103.0,0.61,168.85246,954189.0,35.0,Y
+2025,16555.0,Salem Electric - (OR),OR,Cooperative,,,,,,,,,
+2025,19325.0,Umatilla Electric Coop Assn,OR,Cooperative,155.22,0.998,155.53106,107.501,0.771,139.43061,17097.0,12.5,Y
+2025,3329.0,Borough of Chambersburg - (PA),PA,Municipal,38.87,0.41,94.804878,14.25,0.18,79.166667,11890.0,12.5,N
+2025,3597.0,Citizens Electric Co - (PA),PA,Investor Owned,,,,,,,,,
+2025,5487.0,Duquesne Light Co,PA,Investor Owned,,,,,,,,,
+2025,66101.0,FirstEnergy Pennsylvania Electric Co,PA,Investor Owned,647.3,2.022,320.12859,216.86,1.555,139.45981,2084958.0,34.5,Y
+2025,14940.0,PECO Energy Co,PA,Investor Owned,328.3,1.12,293.125,59.3,0.67,88.507463,1698536.0,34.0,Y
+2025,14715.0,PPL Electric Utilities Corp,PA,Investor Owned,198.1,0.974,203.38809,115.6,0.765,151.11111,1477678.0,12.0,Y
+2025,15045.0,Pike County Light & Power Co,PA,Investor Owned,,,,,,,,,
+2025,19390.0,"UGI Utilities, Inc",PA,Investor Owned,56.0,0.58,96.551724,56.0,0.58,96.551724,62704.0,13.8,Y
+2025,20334.0,Wellsborough Electric Co,PA,Investor Owned,,,,,,,,,
+2025,13214.0,The Narragansett Electric Co,RI,Investor Owned,182.95,0.96,190.57292,60.06,0.73,82.273973,514651.0,69.0,Y
+2025,162.0,Aiken Electric Coop Inc,SC,Cooperative,189.26,,,118.93,,,54254.0,25.0,Y
+2025,1613.0,Berkeley Electric Coop Inc,SC,Cooperative,113.7,1.38,82.391304,92.9,1.1,84.454545,135213.0,24.9,Y
+2025,1763.0,"Black River Electric Coop, Inc - (SC)",SC,Cooperative,95.995,1.092,87.907509,95.995,1.092,87.907509,34766.0,7.2,Y
+2025,1890.0,Blue Ridge Electric Coop Inc - (SC),SC,Cooperative,204.85,,,160.29,,,74014.0,7.2,N
+2025,2212.0,"Broad River Electric Coop, Inc",SC,Cooperative,,,,,,,,,
+2025,6894.0,City of Gaffney - (SC),SC,Municipal,,,,,,,,,
+2025,14164.0,City of Orangeburg - (SC),SC,Municipal,224.04,1.831,122.35937,182.7,1.619,112.84744,24572.0,24.9,Y
+2025,16195.0,City of Rock Hill - (SC),SC,Municipal,69.1,0.763,90.563565,69.1,0.763,90.563565,40729.0,24.9,Y
+2025,17539.0,"Dominion Energy South Carolina, Inc",SC,Investor Owned,131.08,1.34,97.820896,81.15,1.1,73.772727,835280.0,23.9,Y
+2025,5416.0,"Duke Energy Carolinas, LLC",SC,Investor Owned,219.78,1.262,174.15214,140.63,1.071,131.30719,738436.0,24.0,Y
+2025,3046.0,Duke Energy Progress - (NC),SC,Investor Owned,118.61,1.139,104.13521,105.79,1.044,101.33142,180575.0,23.0,Y
+2025,6709.0,Easley Combined Utility System,SC,Municipal,90.9,1.31,69.389313,90.9,1.31,69.389313,17677.0,12.5,Y
+2025,5644.0,"Edisto Electric Coop, Inc",SC,Cooperative,235.49,,,235.49,,,21495.0,14.4,N
+2025,5929.0,"Fairfield Electric Coop, Inc",SC,Cooperative,,,,,,,,,
+2025,7646.0,Greenwood CPW,SC,Municipal,101.237,0.899,112.61068,42.341,0.511,82.8591,12022.0,12.5,Y
+2025,7654.0,Greer Commission of Public Wks,SC,Municipal,,,,,,,,,
+2025,8786.0,Horry Electric Coop Inc,SC,Cooperative,110.38,1.281,86.167057,101.283,1.221,82.95086,100332.0,25.0,N
+2025,10768.0,"Laurens Electric Coop, Inc",SC,Cooperative,211.19,1.79,117.98324,154.13,1.56,98.801282,64821.0,14.4,Y
+2025,11355.0,"Lynches River Elec Coop, Inc",SC,Cooperative,201.7,2.0,100.85,128.9,1.6,80.5625,22629.0,25.0,Y
+2025,66073.0,MPD Electric Cooperative,SC,Cooperative,135.942,1.241,109.5423,103.33,1.097,94.193254,38997.0,25.0,Y
+2025,12462.0,Mid-Carolina Electric Coop Inc,SC,Cooperative,267.06,2.211,120.78697,90.239,1.478,61.054804,61058.0,25.0,Y
+2025,13524.0,"Newberry Electric Coop, Inc",SC,Cooperative,511.92,3.23,158.48916,230.44,2.41,95.618257,13990.0,,Y
+2025,14398.0,Palmetto Electric Coop Inc,SC,Cooperative,50.6,0.762,66.404199,37.96,0.69,55.014493,81346.0,12.5,Y
+2025,16606.0,"Santee Electric Coop, Inc",SC,Cooperative,211.41,,,146.68,,,45110.0,25.0,Y
+2025,17543.0,South Carolina Public Service Authority,SC,State,43.078,0.69,62.431884,40.667,0.671,60.606557,215561.0,34.0,Y
+2025,14175.0,"Tri-County Electric Coop, Inc (SC)",SC,Cooperative,264.54,2.45,107.97551,112.18,1.3,86.292308,18488.0,14.4,Y
+2025,21002.0,York Electric Coop Inc,SC,Cooperative,66.22,0.512,129.33594,60.47,0.49,123.40816,73706.0,24.9,Y
+2025,1769.0,"Black Hills Electric Coop, Inc",SD,Cooperative,2486.8,3.408,729.69484,120.1,0.856,140.30374,11466.0,7.2,Y
+2025,19545.0,"Black Hills Power, Inc.",SD,Investor Owned,540.867,2.265,238.79338,42.858,0.787,54.457433,82900.0,35.0,Y
+2025,2285.0,City of Brookings - (SD),SD,Municipal,13.192,0.084,157.04762,13.192,0.084,157.04762,12388.0,12.5,Y
+2025,12341.0,MidAmerican Energy Co,SD,Investor Owned,399.0,0.93,429.03226,65.0,0.42,154.7619,5389.0,13.8,Y
+2025,12199.0,Montana-Dakota Utilities Co,SD,Investor Owned,212.16,2.62,80.977099,205.56,2.588,79.42813,9554.0,22.0,Y
+2025,13809.0,NorthWestern Energy - (SD),SD,Investor Owned,119.676,1.142,104.7951,81.613,0.853,95.677608,64904.0,34.5,N
+2025,13750.0,"Northern Electric Coop, Inc",SD,Cooperative,72.452,0.744,97.38172,64.928,0.652,99.582822,6938.0,7.2,N
+2025,13781.0,Northern States Power Co - Minnesota,SD,Investor Owned,160.08,0.88,181.90909,58.42,0.46,127.0,107525.0,34.5,Y
+2025,14232.0,Otter Tail Power Co,SD,Investor Owned,191.026,1.731,110.35586,188.917,1.716,110.09149,12464.0,25.0,Y
+2025,16286.0,Rosebud Electric Coop Inc,SD,Cooperative,140.9,0.77,182.98701,78.4,0.73,107.39726,5657.0,7.2,Y
+2025,17267.0,Sioux Valley SW Elec Coop,SD,Cooperative,58.534,1.635,35.800612,58.534,1.635,35.800612,26620.0,12.5,Y
+2025,19293.0,Southeastern Electric Coop Inc - (SD),SD,Cooperative,,,,,,,,,
+2025,20187.0,Watertown Municipal Utilities,SD,Municipal,4.25,0.122,34.836066,4.18,0.081,51.604938,14608.0,12.5,N
+2025,20401.0,West River Electric Assn Inc,SD,Cooperative,24.0,0.3,80.0,24.0,0.3,80.0,21246.0,24.9,Y
+2025,727.0,Appalachian Electric Coop,TN,Cooperative,301.4,3.2,94.1875,214.8,2.7,79.555556,51976.0,13.0,Y
+2025,1936.0,Bolivar Energy Authority,TN,Municipal,564.061,2.388,236.20645,187.805,1.872,100.32318,11441.0,12.5,N
+2025,2960.0,"Caney Fork Electric Coop, Inc",TN,Cooperative,,,,,,,,,
+2025,2247.0,City of Bristol - (TN),TN,Municipal,59.15,0.79,74.873418,0.0,0.0,,34999.0,69.0,N
+2025,3704.0,City of Clarksville - (TN),TN,Municipal,117.16,1.18,99.288136,100.45,1.05,95.666667,86998.0,69.0,Y
+2025,3758.0,City of Cleveland - (TN),TN,Municipal,56.459,0.877,64.377423,36.127,0.745,48.492617,35611.0,13.2,N
+2025,3812.0,City of Clinton - (TN),TN,Municipal,158.59,1.967,80.625318,117.766,1.673,70.39211,31429.0,13.0,Y
+2025,5148.0,City of Dickson,TN,Municipal,390.981,2.463,158.74178,202.228,1.95,103.70667,39833.0,13.0,Y
+2025,5509.0,City of Dyersburg,TN,Municipal,25.5,1.22,20.901639,18.64,0.23,81.043478,11985.0,13.2,N
+2025,6234.0,City of Fayetteville,TN,Municipal,228.844,3.035,75.401647,187.132,2.567,72.899104,19745.0,14.4,Y
+2025,6923.0,City of Gallatin - (TN),TN,Municipal,49.3,0.53,93.018868,22.67,0.0,,27252.0,12.5,N
+2025,7625.0,City of Greeneville - (TN),TN,Municipal,237.968,1.854,128.35383,115.358,1.387,83.170872,40975.0,13.0,Y
+2025,8147.0,City of Harriman - (TN),TN,Municipal,,,,,,,,,
+2025,9612.0,City of Jackson - (TN),TN,Municipal,185.5,1.54,120.45455,185.5,1.54,120.45455,39029.0,12.5,Y
+2025,10579.0,City of LaFollette,TN,Municipal,791.0,5.11,154.79452,525.0,4.18,125.59809,23287.0,12.5,Y
+2025,10960.0,City of Lewisburg - (TN),TN,Municipal,25.82,0.945,27.322751,25.82,0.945,27.322751,6787.0,13.0,N
+2025,12293.0,City of Memphis - (TN),TN,Municipal,348.7,2.23,156.36771,283.2,1.99,142.31156,430114.0,23.0,Y
+2025,12532.0,City of Milan - (TN),TN,Municipal,12532.0,1.2,10443.333,,,,8535.0,12.5,Y
+2025,12988.0,City of Morristown - (TN),TN,Municipal,125.829,2.507,50.191065,62.799,1.088,57.719669,16625.0,13.2,Y
+2025,14455.0,City of Paris - (TN),TN,Municipal,488.321,5.127,95.244978,443.7,4.82,92.053942,22934.0,13.1,Y
+2025,15507.0,City of Pulaski - (TN),TN,Municipal,442.49,3.81,116.13911,162.62,2.31,70.398268,15329.0,7.6,Y
+2025,27222.0,City of Ripley - (TN),TN,Municipal,281.255,1.84,152.85598,281.255,1.84,152.85598,6308.0,13.2,Y
+2025,16223.0,City of Rockwood - (TN),TN,Municipal,575.846,3.5,164.52743,169.571,2.002,84.700799,15415.0,12.5,N
+2025,17047.0,City of Shelbyville - (TN),TN,Municipal,17.54,0.613,28.613377,17.35,0.611,28.396072,11746.0,12.5,N
+2025,20793.0,City of Winchester - (TN),TN,Municipal,207.46,2.02,102.70297,52.05,0.79,65.886076,6868.0,13.0,N
+2025,3855.0,Columbia Power System - (TN),TN,Municipal,142.513,1.95,73.08359,86.247,1.399,61.649035,35792.0,12.5,Y
+2025,4624.0,Cumberland Elec Member Corp,TN,Cooperative,,,,,,,,,
+2025,5399.0,Duck River Elec Member Corp,TN,Cooperative,190.36,2.14,88.953271,134.23,1.88,71.398936,86690.0,26.0,N
+2025,40236.0,"Forked Deer Electric Coop, Inc",TN,Cooperative,,,,,,,,,
+2025,6608.0,Fort Loudoun Electric Coop,TN,Cooperative,529.51,2.835,186.77601,433.3,2.346,184.69736,36120.0,13.0,Y
+2025,8764.0,"Holston Electric Coop, Inc",TN,Cooperative,183.681,2.467,74.455209,149.59,2.255,66.337029,32726.0,13.0,Y
+2025,9777.0,Johnson City - (TN),TN,Municipal,100.643,0.876,114.88927,99.986,0.864,115.72454,84883.0,12.5,Y
+2025,10331.0,Kingsport Power Co,TN,Investor Owned,181.9,1.132,160.68905,158.0,1.037,152.36258,49690.0,35.0,Y
+2025,10421.0,Knoxville Utilities Board,TN,Municipal,274.0,1.26,217.46032,149.0,0.99,150.50505,225030.0,13.2,Y
+2025,11789.0,Maryville Utilities,TN,Municipal,77.738,1.007,77.197617,54.195,0.896,60.485491,22640.0,13.2,Y
+2025,12186.0,McMinnville Electric System,TN,Municipal,30.74,0.233,131.93133,15.858,0.159,99.735849,8284.0,13.0,N
+2025,12330.0,Meriwether Lewis Electric Coop,TN,Cooperative,,,,,,,,,
+2025,12470.0,Middle Tennessee E M C,TN,Cooperative,50.4,0.925,54.486486,47.7,0.901,52.941176,355220.0,25.0,Y
+2025,13027.0,"Mountain Electric Coop, Inc",TN,Cooperative,79.3,4.12,19.247573,79.3,4.12,19.247573,16316.0,12.5,N
+2025,13216.0,Nashville Electric Service,TN,Municipal,0.0,0.0,,83.05,0.96,86.510417,461654.0,23.9,Y
+2025,15016.0,Pickwick Electric Coop,TN,Cooperative,,,,,,,,,
+2025,15141.0,Plateau Electric Cooperative,TN,Cooperative,26.033,5.814,4.4776402,4.807,2.361,2.0360017,18443.0,12.5,Y
+2025,15293.0,Powell Valley Electric Coop,TN,Cooperative,180.184,4.589,39.264328,161.94,4.267,37.951723,26578.0,25.0,Y
+2025,16930.0,Sequachee Valley Electric Coop,TN,Cooperative,304.9,2.15,141.81395,253.3,1.78,142.30337,39977.0,14.4,N
+2025,16949.0,Sevier County Electric System,TN,Municipal,376.0,2.63,142.96578,174.0,1.91,91.099476,63888.0,25.0,Y
+2025,5961.0,Town of Erwin - (TN),TN,Municipal,,,,,,,,,
+2025,19162.0,Tri-County Elec Member Corp (TN),TN,Cooperative,527.67,3.91,134.95396,239.39,3.17,75.51735,26277.0,13.0,Y
+2025,19266.0,Tullahoma Board-Public Utils,TN,Municipal,73.865,3.039,24.305693,54.519,2.182,24.985793,11215.0,12.5,N
+2025,3278.0,AEP Texas Central Company,TX,Investor Owned,204.7,1.761,116.24077,154.9,1.552,99.806701,921564.0,35.0,Y
+2025,20404.0,AEP Texas North Company,TX,Investor Owned,133.0,1.407,94.527363,105.9,1.23,86.097561,200476.0,35.0,Y
+2025,1015.0,Austin Energy,TX,Municipal,181.98,1.29,141.06977,76.82,0.96,80.020833,575518.0,35.0,Y
+2025,1175.0,"Bandera Electric Coop, Inc",TX,Cooperative,153.58,0.874,175.72082,55.063,0.592,93.011824,42753.0,25.0,Y
+2025,1273.0,"Bartlett Electric Coop, Inc",TX,Cooperative,213.175,1.459,146.11035,165.324,1.219,135.62264,16141.0,24.9,Y
+2025,1591.0,"Big Country Electric Coop, Inc",TX,Cooperative,,,,,,,,,
+2025,1892.0,"Bluebonnet Electric Coop, Inc",TX,Cooperative,113.583,1.305,87.036782,88.328,1.18,74.854237,144059.0,25.0,Y
+2025,2049.0,"Bowie-Cass Electric Coop, Inc",TX,Cooperative,,,,,,,,,
+2025,2409.0,Brownsville Public Utilities Board,TX,Municipal,152.002,2.991,50.819793,138.613,2.976,46.576949,60417.0,12.5,N
+2025,8901.0,CenterPoint Energy,TX,Investor Owned,193.194,1.954,98.871034,151.118,1.766,85.570781,2898292.0,34.5,Y
+2025,3282.0,"Central Texas Elec Coop, Inc",TX,Cooperative,220.3,1.97,111.82741,192.6,1.82,105.82418,49007.0,24.9,Y
+2025,3470.0,Cherokee County Elec Coop Assn - (TX),TX,Cooperative,840.6,5.37,156.53631,483.35,4.27,113.19672,24241.0,24.9,Y
+2025,2442.0,City of Bryan - (TX),TX,Municipal,,,,,,,,,
+2025,3940.0,City of College Station - (TX),TX,Municipal,22.8,0.59,38.644068,13.3,0.22,60.454545,45893.0,15.0,Y
+2025,5063.0,City of Denton - (TX),TX,Municipal,47.597,0.237,200.83122,11.474,0.122,94.04918,65183.0,13.2,Y
+2025,6427.0,City of Floresville,TX,Municipal,99.54,1.23,80.926829,99.54,1.23,80.926829,18328.0,13.8,Y
+2025,6958.0,City of Garland - (TX),TX,Municipal,,,,,,,,,
+2025,7129.0,City of Georgetown - (TX),TX,Municipal,,,,,,,,,
+2025,7634.0,City of Greenville - (TX),TX,Municipal,54.95,0.55,99.909091,14.148,0.159,88.981132,17957.0,12.5,Y
+2025,11292.0,City of Lubbock - (TX),TX,Municipal,110.909,1.703,65.125661,95.319,1.701,56.037037,110000.0,23.0,Y
+2025,13418.0,City of New Braunfels - (TX),TX,Municipal,57.914,0.797,72.664994,57.914,0.797,72.664994,60642.0,12.7,Y
+2025,16604.0,City of San Antonio - (TX),TX,Municipal,110.57,1.54,71.798701,75.38,1.25,60.304,940662.0,35.0,Y
+2025,28978.0,City of San Marcos - (TX),TX,Municipal,136.488,1.774,76.937993,,,,25952.0,,Y
+2025,16900.0,City of Seguin - (TX),TX,Municipal,,,,,,,,,
+2025,4146.0,Concho Valley Elec Coop Inc,TX,Cooperative,363.9,3.734,97.455811,363.9,3.734,97.455811,16173.0,24.9,Y
+2025,4262.0,Cooke County Elec Coop Assn,TX,Cooperative,349.37,2.29,152.56332,315.1,2.08,151.49038,18583.0,7.2,Y
+2025,4939.0,"Deaf Smith Electric Coop, Inc",TX,Cooperative,514.4,2.391,215.14011,338.0,2.09,161.72249,4507.0,14.4,Y
+2025,4975.0,Deep East Texas Elec Coop Inc,TX,Cooperative,1119.0,,,1119.0,,,45019.8,12.5,N
+2025,5078.0,"Denton County Elec Coop, Inc",TX,Cooperative,49.4,0.399,123.80952,37.4,0.286,130.76923,333690.0,24.9,Y
+2025,5701.0,El Paso Electric Co,TX,Investor Owned,55.156,0.858,64.284382,55.156,0.858,64.284382,363341.0,23.9,Y
+2025,55937.0,Entergy Texas Inc.,TX,Investor Owned,403.1,2.579,156.30089,304.5,2.218,137.28584,539043.0,34.5,Y
+2025,6173.0,Fannin County Electric Coop,TX,Cooperative,,,,,,,,,
+2025,6182.0,"Farmers Electric Coop, Inc - (TX)",TX,Cooperative,90.699,1.348,67.284125,66.293,1.154,57.446274,94603.3,24.9,N
+2025,7559.0,"Grayson-Collin Elec Coop, Inc",TX,Cooperative,,,,,,,,,
+2025,7752.0,Guadalupe Valley Elec Coop Inc,TX,Cooperative,138.7,1.75,79.257143,119.57,1.7,70.335294,107036.0,24.9,Y
+2025,8620.0,"HILCO Electric Cooperative, Inc.",TX,Cooperative,212.3,1.76,120.625,175.2,1.42,123.38028,35965.0,14.4,Y
+2025,55982.0,Heart of Texas Electric Coop,TX,Cooperative,204.4,1.827,111.87739,133.7,1.397,95.705082,24685.0,24.9,Y
+2025,8898.0,Houston County Elec Coop Inc,TX,Cooperative,,,,,,,,,
+2025,9668.0,"Jasper-Newton Elec Coop, Inc",TX,Cooperative,1144.85,7.167,159.73908,697.28,5.896,118.26323,23816.6,24.9,Y
+2025,10009.0,Karnes Electric Coop Inc,TX,Cooperative,,,,,,,,,
+2025,28604.0,Kerrville Public Utility Board,TX,Municipal,85.267,0.541,157.60998,24.368,0.292,83.452055,24229.0,12.5,Y
+2025,10649.0,Lamar County Elec Coop Assn,TX,Cooperative,,,,,,,,,
+2025,10625.0,"Lamb County Electric Coop, Inc",TX,Cooperative,,,,,,,,,
+2025,10817.0,"Lea County Electric Coop, Inc - (NM)",TX,Cooperative,,,,,,,,,
+2025,11364.0,"Lyntegar Electric Coop, Inc",TX,Cooperative,266.89,,,266.89,,,24066.0,14.4,Y
+2025,11501.0,Magic Valley Electric Coop Inc,TX,Cooperative,288.47,,,230.9,,,149858.0,34.5,Y
+2025,12268.0,"Medina Electric Coop, Inc",TX,Cooperative,299.69,2.7,110.9963,258.96,2.49,104.0,36770.0,24.9,Y
+2025,12452.0,Mid-South Electric Coop Assn,TX,Cooperative,,,,,,,,,
+2025,16146.0,"Navasota Valley Elec Coop, Inc",TX,Cooperative,568.932,4.449,127.87862,472.821,4.12,114.76238,21831.0,35.0,Y
+2025,13757.0,North Plains Electric Coop Inc,TX,Cooperative,,,,,,,,,
+2025,13830.0,Nueces Electric Cooperative,TX,Cooperative,410.9,1.903,215.92223,113.49,1.065,106.56338,21828.0,25.0,Y
+2025,44372.0,Oncor Electric Delivery Company LLC,TX,Investor Owned,,,,,,,,,
+2025,14424.0,"Panola-Harrison Elec Coop, Inc",TX,Cooperative,,,,,,,,,
+2025,14626.0,"Pedernales Electric Coop, Inc",TX,Cooperative,89.9,1.156,77.768166,78.2,1.101,71.02634,441007.0,25.0,Y
+2025,16057.0,"Rio Grande Electric Coop, Inc",TX,Cooperative,194.652,,,134.447,,,15682.0,24.9,N
+2025,16063.0,"Rita Blanca Electric Coop, Inc",TX,Cooperative,,,,,,,,,
+2025,16461.0,"Rusk County Electric Coop, Inc",TX,Cooperative,587.28,,,357.164,,,23706.0,14.0,Y
+2025,16613.0,Sam Houston Electric Coop Inc,TX,Cooperative,466.0,,,347.0,,,95874.0,34.5,N
+2025,16638.0,"San Bernard Electric Coop, Inc",TX,Cooperative,184.201,1.427,129.08269,110.044,1.178,93.415959,37635.0,14.4,Y
+2025,16627.0,San Patricio Electric Coop Inc,TX,Cooperative,240.218,2.202,109.09083,240.218,2.202,109.09083,12600.0,24.9,Y
+2025,17698.0,Southwestern Electric Power Co,TX,Investor Owned,467.1,2.979,156.79758,311.7,2.631,118.47206,192887.0,35.0,Y
+2025,17718.0,Southwestern Public Service Co,TX,Investor Owned,441.36,1.71,258.10526,151.22,1.31,115.43511,270149.0,34.5,Y
+2025,27369.0,Taylor Electric Coop Inc - (TX),TX,Cooperative,363.633,3.537,102.80831,309.063,3.248,95.154865,21359.0,25.0,Y
+2025,40051.0,Texas-New Mexico Power Co,TX,Investor Owned,,,,,,,,,
+2025,19159.0,"Tri-County Electric Coop, Inc (TX)",TX,Cooperative,202.9,1.67,121.49701,131.96,1.4,94.257143,144322.0,,Y
+2025,18976.0,Trinity Valley Elec Coop Inc,TX,Cooperative,178.99,2.362,75.779001,141.984,1.977,71.817906,88517.0,14.4,N
+2025,19490.0,United Electric Coop Service Inc - (TX),TX,Cooperative,122.296,1.232,99.266234,71.967,0.861,83.585366,132200.0,25.0,Y
+2025,19579.0,Upshur Rural Elec Coop Corp,TX,Cooperative,1332.141,5.597,238.00983,714.393,4.739,150.74763,50881.0,25.0,Y
+2025,19806.0,"Victoria Electric Coop, Inc",TX,Cooperative,252.91,2.2,114.95909,171.37,1.82,94.159341,25198.0,14.4,Y
+2025,20230.0,Weatherford Mun Utility System,TX,Municipal,,,,,,,,,
+2025,20948.0,Wise Electric Coop Inc,TX,Cooperative,,,,,,,,,
+2025,20927.0,"Wood County Electric Coop, Inc",TX,Cooperative,934.25,4.31,216.76334,575.88,1.3,442.98462,42180.0,12.5,Y
+2025,11135.0,City of Logan - (UT),UT,Municipal,28.574,0.449,63.639198,14.626,0.137,106.75912,22012.0,46.0,N
+2025,13137.0,City of Murray - (UT),UT,Municipal,,,,,,,,,
+2025,17845.0,City of Springville - (UT),UT,Municipal,46.049,0.445,103.4809,,,,13469.0,12.4,N
+2025,17874.0,City of St George - (UT),UT,Municipal,21.657,,,18.483,,,33831.0,13.2,N
+2025,40165.0,"Dixie Escalante R E A, Inc",UT,Cooperative,43.679,0.182,239.99451,10.002,0.173,57.815029,31630.0,34.5,Y
+2025,6957.0,"Garkane Energy Coop, Inc",UT,Cooperative,898.6,,,575.4,,,16312.0,34.5,Y
+2025,8366.0,Heber Light & Power Company,UT,Municipal,116.116,2.209,52.564962,60.337,1.348,44.760386,16196.0,12.4,N
+2025,10879.0,Lehi City Corporation,UT,Municipal,42.147,0.449,93.868597,42.147,0.449,93.868597,31153.0,12.5,N
+2025,12866.0,Moon Lake Electric Assn Inc,UT,Cooperative,,,,,,,,,
+2025,13314.0,Navajo Tribal Utility Authority,UT,State,,,,,,,,,
+2025,14354.0,PacifiCorp,UT,Investor Owned,117.77,0.9,130.85556,101.58,0.86,118.11628,1054136.0,34.5,Y
+2025,15444.0,Provo City Corp,UT,Municipal,53.342,0.65,82.064615,53.342,0.65,82.064615,40813.0,12.5,Y
+2025,18206.0,Strawberry Electric Serv Dist,UT,Political Subdivision,61.479,,,61.479,,,4159.0,12.5,N
+2025,84.0,A & N Electric Coop,VA,Cooperative,,,,,,,,,
+2025,733.0,Appalachian Power Co,VA,Investor Owned,1115.5,2.359,472.86986,327.6,1.617,202.5974,553079.0,35.0,Y
+2025,2248.0,Bristol Virginia Utilities,VA,Municipal,25.287,0.244,103.63525,25.287,0.244,103.63525,15989.0,13.2,Y
+2025,3291.0,Central Virginia Electric Coop,VA,Cooperative,796.0,5.03,158.2505,501.0,3.47,144.3804,39308.0,24.9,Y
+2025,8198.0,City of Harrisonburg - (VA),VA,Municipal,,,,,,,,,
+2025,11560.0,City of Manassas - (VA),VA,Municipal,76.408,1.297,58.911334,56.053,0.914,61.327133,17185.0,13.2,Y
+2025,16558.0,City of Salem - (VA),VA,Municipal,27.566,0.288,95.715278,27.566,0.288,95.715278,13654.0,12.5,N
+2025,10171.0,Kentucky Utilities Co,VA,Investor Owned,326.66,1.897,172.19821,141.74,1.365,103.83883,29437.0,34.5,Y
+2025,12260.0,Mecklenburg Electric Cooperative,VA,Cooperative,721.1,2.826,255.16631,244.0,1.956,124.74438,31280.0,25.0,Y
+2025,13762.0,"Northern Neck Elec Coop, Inc",VA,Cooperative,,,,188.644,2.168,87.012915,21079.0,12.5,Y
+2025,13640.0,Northern Virginia Elec Coop,VA,Cooperative,94.292,0.984,95.825203,42.812,0.583,73.433962,179398.0,34.5,Y
+2025,15293.0,Powell Valley Electric Coop,VA,Cooperative,180.184,4.589,39.264328,161.94,4.267,37.951723,8406.0,25.0,Y
+2025,15410.0,Prince George Electric Coop,VA,Cooperative,383.34,,,222.2,,,13341.0,25.0,Y
+2025,40228.0,Rappahannock Electric Coop,VA,Cooperative,428.33,2.5,171.332,219.71,2.02,108.76733,184314.0,34.5,Y
+2025,17066.0,Shenandoah Valley Elec Coop,VA,Cooperative,391.0,2.78,140.64748,258.0,2.34,110.25641,101226.0,69.0,Y
+2025,21244.0,"Southside Electric Coop, Inc",VA,Cooperative,2126.936,4.445,478.50079,323.591,2.866,112.90684,59312.0,25.0,Y
+2025,19876.0,Virginia Electric & Power Co,VA,Investor Owned,,,,,,,,,
+2025,19882.0,Virginia Tech Electric Service,VA,State,,,,,,,,,
+2025,2548.0,City of Burlington Electric - (VT),VT,Municipal,,,,,,,,,
+2025,7601.0,Green Mountain Power Corp,VT,Investor Owned,,,,,,,,,
+2025,19791.0,"Vermont Electric Cooperative, Inc",VT,Cooperative,251.3,2.06,121.99029,150.6,1.45,103.86207,40952.0,35.0,Y
+2025,20169.0,Avista Corp,WA,Investor Owned,200.0,0.97,206.18557,119.0,0.8,148.75,277040.0,35.0,N
+2025,1625.0,Benton Rural Electric Assn,WA,Cooperative,,,,,,,,,N
+2025,1723.0,"Big Bend Electric Coop, Inc",WA,Cooperative,448.949,1.296,346.41127,105.566,0.826,127.80387,10891.0,24.9,Y
+2025,3295.0,City of Centralia - (WA),WA,Municipal,143.429,0.687,208.77584,95.319,0.372,256.23387,10938.0,12.5,N
+2025,15979.0,City of Richland - (WA),WA,Municipal,38.841,0.376,103.30053,38.841,0.376,103.30053,28306.0,12.5,N
+2025,16868.0,City of Seattle - (WA),WA,Municipal,157.8,1.038,152.02312,129.3,0.925,139.78378,527764.0,34.0,Y
+2025,18429.0,City of Tacoma - (WA),WA,Municipal,171.584,0.893,192.14334,69.944,0.678,103.16224,161290.0,13.8,Y
+2025,4041.0,"Columbia Rural Elec Assn, Inc",WA,Cooperative,200.2,1.55,129.16129,157.5,1.52,103.61842,6751.0,24.9,Y
+2025,8699.0,Inland Power & Light Company,WA,Cooperative,536.0,2.549,210.27854,283.0,1.914,147.85789,48907.0,24.9,Y
+2025,13758.0,"Northern Lights, Inc",WA,Cooperative,,,,,,,,,
+2025,14170.0,Orcas Power & Light Coop,WA,Cooperative,323.4,2.266,142.71845,323.4,2.266,142.71845,15337.0,12.5,Y
+2025,1579.0,PUD No 1 of Benton County,WA,Political Subdivision,36.1,0.28,128.92857,36.1,0.28,128.92857,57780.0,34.5,Y
+2025,3413.0,PUD No 1 of Chelan County - (WA),WA,Political Subdivision,327.07,0.82,398.86585,76.9,0.632,121.67722,51646.0,12.5,N
+2025,3644.0,PUD No 1 of Clallam County,WA,Political Subdivision,,,,,,,,,
+2025,3660.0,PUD No 1 of Clark County - (WA),WA,Political Subdivision,298.38,1.63,183.05521,51.45,0.98,52.5,238063.0,12.5,Y
+2025,4442.0,PUD No 1 of Cowlitz County,WA,Political Subdivision,218.724,1.284,170.34579,116.117,0.929,124.99139,54672.0,25.0,Y
+2025,6716.0,PUD No 1 of Franklin County,WA,Political Subdivision,,,,,,,,,
+2025,7548.0,PUD No 1 of Grays Harbor County,WA,Political Subdivision,1036.0,2.8,370.0,338.0,1.5,225.33333,45923.0,34.5,Y
+2025,59013.0,PUD No 1 of Jefferson County,WA,Political Subdivision,773.9,3.84,201.53646,441.5,3.21,137.53894,21336.0,12.5,Y
+2025,10393.0,PUD No 1 of Klickitat County,WA,Political Subdivision,,,,,,,,,
+2025,10944.0,PUD No 1 of Lewis County - (WA),WA,Political Subdivision,662.766,3.688,179.70879,400.429,3.02,132.59238,36079.0,24.9,Y
+2025,14055.0,PUD No 1 of Okanogan County,WA,Political Subdivision,,,,,,,,,
+2025,17470.0,PUD No 1 of Snohomish County - (WA),WA,Political Subdivision,343.3,1.74,197.29885,148.6,1.28,116.09375,390607.0,12.5,Y
+2025,14624.0,PUD No 2 of Grant County - (WA),WA,Political Subdivision,,,,,,,,,
+2025,14324.0,PUD No 2 of Pacific County,WA,Political Subdivision,,,,,,,,,N
+2025,15419.0,PUD No 3 of Mason County,WA,Political Subdivision,,,,,,,,,
+2025,14354.0,PacifiCorp,WA,Investor Owned,102.73,0.56,183.44643,58.01,0.43,134.90698,140273.0,34.5,Y
+2025,14668.0,Peninsula Light Company,WA,Cooperative,744.52,4.24,175.59434,97.71,1.08,90.472222,35588.0,12.5,Y
+2025,15500.0,Puget Sound Energy Inc,WA,Investor Owned,580.0,1.6,362.5,178.0,1.1,161.81818,1258468.0,34.5,Y
+2025,108.0,Adams-Columbia Electric Coop,WI,Cooperative,107.9,0.873,123.59679,66.1,0.686,96.355685,39954.0,12.5,Y
+2025,1251.0,Barron Electric Coop,WI,Cooperative,306.516,2.176,140.86213,125.74,1.177,106.83093,19887.0,12.5,Y
+2025,3208.0,Cedarburg Light & Water Comm,WI,Municipal,,,,,,,,,
+2025,10056.0,City of Kaukauna (WI),WI,Municipal,70.916,1.156,61.346021,20.669,0.024,861.20833,17205.0,34.5,Y
+2025,11740.0,City of Marshfield - (WI),WI,Municipal,12.897,0.14,92.121429,9.748,0.131,74.412214,13908.0,13.2,Y
+2025,12298.0,City of Menasha - (WI),WI,Municipal,,,,,,,,,
+2025,13448.0,City of New Holstein - (WI),WI,Municipal,,,,,,,,,
+2025,13481.0,City of New Richmond,WI,Municipal,12.929,0.102,126.7549,12.929,0.102,126.7549,5900.0,12.5,N
+2025,15159.0,City of Plymouth - (WI),WI,Municipal,10.93,0.1,109.3,10.93,0.1,109.3,8959.0,12.5,N
+2025,15978.0,City of Richland Center - (WI),WI,Municipal,,,,,,,,,
+2025,16082.0,City of River Falls,WI,Municipal,38.24,0.43,88.930233,38.24,0.43,88.930233,6612.0,12.4,N
+2025,18181.0,City of Stoughton - (WI),WI,Municipal,33.628,0.329,102.21277,33.628,0.329,102.21277,9475.0,12.4,Y
+2025,18249.0,City of Sturgeon Bay - (WI),WI,Municipal,11.78,0.26,45.307692,4.56,0.05,91.2,9725.0,12.5,N
+2025,5417.0,Dunn County Electric Coop,WI,Cooperative,128.47,0.758,169.48549,31.55,0.388,81.314433,10623.0,7.2,Y
+2025,6424.0,Florence Utility Comm,WI,Municipal,505.591,2.459,205.60838,58.288,0.662,88.048338,1695.0,12.4,Y
+2025,8212.0,Hartford Electric,WI,Municipal,,,,,,,,,
+2025,11479.0,Madison Gas & Electric Co,WI,Investor Owned,48.77,0.392,124.41327,27.27,0.28,97.392857,170341.0,13.8,Y
+2025,11571.0,Manitowoc Public Utilities,WI,Municipal,35.47,0.49,72.387755,9.54,0.22,43.363636,18328.0,13.2,Y
+2025,13780.0,Northern States Power Co,WI,Investor Owned,308.8,1.15,268.52174,110.31,0.83,132.90361,263161.0,34.5,Y
+2025,13936.0,Oakdale Electric Coop,WI,Cooperative,118.1,1.109,106.49234,83.5,0.916,91.157205,18227.0,12.5,Y
+2025,13963.0,Oconomowoc Utilities,WI,Municipal,,,,,,,,,
+2025,15344.0,Polk-Burnett Electric Coop,WI,Cooperative,103.63,1.474,70.305292,43.47,1.024,42.451172,22552.0,12.5,Y
+2025,16060.0,Riverland Energy Cooperative,WI,Cooperative,169.994,1.534,110.81747,134.14,1.376,97.485465,20218.0,12.5,Y
+2025,16196.0,Rock Energy Cooperative,WI,Cooperative,55.526,0.528,105.16288,36.66,0.385,95.220779,7707.0,24.9,Y
+2025,16740.0,Scenic Rivers Energy Coop,WI,Cooperative,,,,,,,,,
+2025,17011.0,Shawano Municipal Utilities,WI,Municipal,,,,,,,,,
+2025,17324.0,Slinger Utilities,WI,Municipal,,,,,,,,,
+2025,18312.0,Sun Prairie Utilities,WI,Municipal,10.52,0.14,75.142857,10.52,0.14,75.142857,18906.0,12.4,Y
+2025,18336.0,Superior Water and Light Co,WI,Investor Owned,25.33,0.32,79.15625,9.88,0.11,89.818182,14818.0,13.8,N
+2025,19324.0,Two Rivers Water & Light,WI,Municipal,66.898,0.508,131.68898,0.0,0.0,,6193.0,13.2,N
+2025,13145.0,Village of Muscoda - (WI),WI,Municipal,,,,,,,,,
+2025,20211.0,Village of Waunakee - (WI),WI,Municipal,19.332,0.31,62.36129,0.0,0.0,,7564.0,12.5,N
+2025,20213.0,Waupun Utilities,WI,Municipal,4.109,0.066,62.257576,4.109,0.066,62.257576,4533.0,12.4,Y
+2025,20847.0,Wisconsin Electric Power Co,WI,Investor Owned,185.0,0.9,205.55556,93.0,0.66,140.90909,1228534.0,35.0,N
+2025,20856.0,Wisconsin Power & Light Co,WI,Investor Owned,,,,,,,,,
+2025,20860.0,Wisconsin Public Service Corp,WI,Investor Owned,630.0,1.44,437.5,107.0,0.86,124.4186,469667.0,46.0,N
+2025,20862.0,Wisconsin Rapids W W & L Comm,WI,Municipal,,,,,,,,,
+2025,733.0,Appalachian Power Co,WV,Investor Owned,1034.5,2.982,346.91482,546.3,2.481,220.19347,417331.0,35.0,Y
+2025,12796.0,Monongahela Power Co,WV,Investor Owned,1250.44,3.718,336.3206,553.28,2.829,195.57441,391428.0,34.5,Y
+2025,15263.0,The Potomac Edison Company,WV,Investor Owned,439.65,1.964,223.85438,248.81,1.626,153.01968,155497.0,34.5,Y
+2025,20521.0,Wheeling Power Co,WV,Investor Owned,706.1,2.263,312.01944,425.6,1.968,216.26016,41032.0,35.0,Y
+2025,19545.0,"Black Hills Power, Inc.",WY,Investor Owned,68.078,1.254,54.288676,12.858,0.385,33.397403,2857.0,35.0,Y
+2025,3461.0,Cheyenne Light Fuel & Power,WY,Investor Owned,53.527,0.763,70.153342,37.497,0.62,60.479032,50163.0,35.0,Y
+2025,7222.0,City of Gillette - (WY),WY,Municipal,,,,,,,,,
+2025,6169.0,Fall River Rural Elec Coop Inc,WY,Cooperative,18.183,0.152,119.625,18.183,0.152,119.625,415.0,12.0,Y
+2025,8566.0,High Plains Power Inc,WY,Cooperative,320.3,,,262.6,,,14035.0,69.0,Y
+2025,12199.0,Montana-Dakota Utilities Co,WY,Investor Owned,353.47,1.801,196.26319,133.85,0.882,151.75737,18396.0,22.0,Y
+2025,14354.0,PacifiCorp,WY,Investor Owned,195.42,1.37,142.64234,91.4,0.76,120.26316,148217.0,34.5,Y
+2025,19156.0,Powder River Energy Corp,WY,Cooperative,570.87,3.5,163.10571,271.18,2.45,110.68571,27766.0,24.9,Y

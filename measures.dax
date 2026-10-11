@@ -1,0 +1,22 @@
+Selected State = SELECTEDVALUE(StateTotals[state], "Select one state")
+
+Selected SAIDI With MED = SELECTEDVALUE(StateTotals[saidi_with_med_minutes])
+
+Selected SAIDI Without MED = SELECTEDVALUE(StateTotals[saidi_without_med_minutes])
+
+Selected SAIFI With MED = SELECTEDVALUE(StateTotals[saifi_with_med_interruptions])
+
+Selected SAIFI Without MED = SELECTEDVALUE(StateTotals[saifi_without_med_interruptions])
+
+SAIDI Difference Including MED =
+VAR WithMED = [Selected SAIDI With MED]
+VAR WithoutMED = [Selected SAIDI Without MED]
+RETURN IF(ISBLANK(WithMED) || ISBLANK(WithoutMED), BLANK(), WithMED - WithoutMED)
+
+Reporting States = DISTINCTCOUNT(StateTotals[state])
+
+Utilities with IEEE SAIDI =
+CALCULATE(
+    DISTINCTCOUNT(UtilityReliability[utility_id]),
+    NOT(ISBLANK(UtilityReliability[ieee_saidi_with_med_minutes]))
+)
